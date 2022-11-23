@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sign In</name>
+   <name>div_Create Patient</name>
    <tag></tag>
-   <elementGuidId>01f4262c-0fe1-4292-8528-5e67660acd84</elementGuidId>
+   <elementGuidId>235c8368-fbc7-431f-84f8-01b86b08b93b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']/span</value>
+         <value>//div[@id='AccumedPatientCreateDlg']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ui-button-text.ui-c</value>
+         <value>#AccumedPatientCreateDlg > div.ui-dialog-titlebar.ui-widget-header.ui-helper-clearfix.ui-corner-top.ui-draggable-handle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0e7ab424-048e-41c9-be39-f9c4f2b4a072</webElementGuid>
+      <value>div</value>
+      <webElementGuid>242a9f7a-e6a0-42db-ba2e-a812a7e624cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>680e6fdf-3ca1-41e8-b789-10be3286a7d4</webElementGuid>
+      <value>ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle</value>
+      <webElementGuid>982d0e98-0fc0-4ae6-9655-b232a8dc1c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>e91e671c-ff3c-4bd8-bfdb-12b5bbaf4c97</webElementGuid>
+      <value>Create Patient</value>
+      <webElementGuid>d8dbd116-7ed2-4a29-99eb-0838088ef36c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>bced9f9c-e05f-4148-94e5-fdef0a684222</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateDlg&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]</value>
+      <webElementGuid>f49be578-eefa-4f4e-b4ea-9e7af345d07d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']/span</value>
-      <webElementGuid>356a58a0-e338-4a4c-88f3-e5da5b52ffad</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateDlg']/div</value>
+      <webElementGuid>0e80c5e9-adbf-4bbf-a862-0b2efb6c8bb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
-      <webElementGuid>2716a35d-f90e-4c86-b7c2-e582a347be21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide'])[2]/following::div[2]</value>
+      <webElementGuid>7fbea558-1f20-46ac-a126-f81df6f77bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
-      <webElementGuid>0432707a-0ef0-4f6d-9e9f-c3972a139831</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Patient'])[1]/following::div[2]</value>
+      <webElementGuid>eb4912cf-01c6-4fff-a013-2868ba05b00f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>76cb9e5b-8409-4900-8699-6cff1ed0e066</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>89ce0d3a-5f5c-41cb-82a5-28665656179a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRN'])[4]/preceding::div[1]</value>
+      <webElementGuid>527679eb-c6a9-4c3f-9ba7-531e039d5456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>3e773826-7e16-40df-a972-aafcb20c4377</webElementGuid>
+      <value>//div[48]/div</value>
+      <webElementGuid>6371aa1b-1ba8-4df2-8e24-db130fd7a61c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>8ba618d3-7671-4539-8de9-57e31aab2065</webElementGuid>
+      <value>//div[(text() = 'Create Patient' or . = 'Create Patient')]</value>
+      <webElementGuid>c0e6fe8e-1600-4f70-b1e7-16ef53c6c7d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

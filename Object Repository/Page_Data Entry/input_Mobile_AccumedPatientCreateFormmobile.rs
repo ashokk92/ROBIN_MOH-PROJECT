@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Loading_loginFormpassword</name>
+   <name>input_Mobile_AccumedPatientCreateFormmobile</name>
    <tag></tag>
-   <elementGuidId>1640db7e-4ae0-404f-82b1-65a8271b11de</elementGuidId>
+   <elementGuidId>14ac240d-8ab3-46ff-8904-0d796beef0eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='loginForm:password']</value>
+         <value>//input[@id='AccumedPatientCreateForm:mobile']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,63 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>928314c0-7492-40a4-bf54-6e19afbe3a22</webElementGuid>
+      <webElementGuid>2ac472b2-9569-4d61-a700-638068e92c0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>7f2aefdb-cb55-4660-ad30-830b8d404d05</webElementGuid>
+      <value>AccumedPatientCreateForm:mobile</value>
+      <webElementGuid>77bbc956-f2dc-4240-8647-97b935888c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>d1199794-d672-4fae-bd9d-b374b17e0b58</webElementGuid>
+      <value>AccumedPatientCreateForm:mobile</value>
+      <webElementGuid>3dfc3b11-2706-4709-ba63-01c1bf6d90ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>636c9d9c-6849-497f-80cb-85548a9855fa</webElementGuid>
+      <value>text</value>
+      <webElementGuid>6e142efa-5b12-4feb-9bca-a42c19b1e760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-password ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>d48af507-88b1-41af-8e98-c9b52a1bd317</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>494e0d32-dbd6-4132-8aab-dee9256d1df6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>845af4f8-9057-4b5b-b067-2ecfb88a3503</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onblur</name>
-      <type>Main</type>
-      <value> loadFacilites();  </value>
-      <webElementGuid>b9b0ff2d-74e9-4b1f-b3c0-b23763a24796</webElementGuid>
+      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
+      <webElementGuid>91f4ccf6-4d4c-4bb3-8b56-a491dc40c9fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +62,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>7e6461a9-8b3b-40b3-882e-04b573d1aa10</webElementGuid>
+      <webElementGuid>b6e339cf-2f9e-40ca-975d-e788e85be005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +70,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>553eef1f-87d3-4064-8255-300d1a07bec0</webElementGuid>
+      <webElementGuid>a109b606-95fd-4c46-a289-37971ca3cb0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,46 +78,46 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>caaffca6-730a-43d8-a6a7-4756223a69d0</webElementGuid>
+      <webElementGuid>20860a3e-abc9-4b9f-a4aa-7f0b3a9fca17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:password&quot;)</value>
-      <webElementGuid>9d0c0add-ef56-4303-b648-5ac730bfade7</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:mobile&quot;)</value>
+      <webElementGuid>c5c000ad-1ff7-445c-916e-084dea9f6e01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginForm:password']</value>
-      <webElementGuid>398815d7-a6f0-43bf-90ba-ec8ec0197035</webElementGuid>
+      <value>//input[@id='AccumedPatientCreateForm:mobile']</value>
+      <webElementGuid>43e37def-9a51-4e22-9e57-bbb411bf6c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/input[3]</value>
-      <webElementGuid>b22d373a-245b-48b7-8e49-b468a35b1676</webElementGuid>
+      <value>//table[@id='AccumedPatientCreateForm:j_idt986']/tbody/tr[6]/td[4]/input</value>
+      <webElementGuid>1096cc2d-9ec4-4160-bd89-b68248250ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[3]</value>
-      <webElementGuid>dbdcb11e-5c03-42bd-a0c8-5a82ddb32e67</webElementGuid>
+      <value>//td/table/tbody/tr[6]/td[4]/input</value>
+      <webElementGuid>9891441f-8827-4b80-956f-3f90f0cfe066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'loginForm:password' and @name = 'loginForm:password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>95c6b669-280a-42cd-9d41-9f347dc91e0f</webElementGuid>
+      <value>//input[@id = 'AccumedPatientCreateForm:mobile' and @name = 'AccumedPatientCreateForm:mobile' and @type = 'text']</value>
+      <webElementGuid>824c7507-92e1-4b86-a60a-0e7636ad789a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

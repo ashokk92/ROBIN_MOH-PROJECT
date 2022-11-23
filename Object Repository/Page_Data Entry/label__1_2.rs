@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label__1</name>
+   <name>label__1_2</name>
    <tag></tag>
-   <elementGuidId>1c3da79a-31a5-464d-8460-df1925a3b7cb</elementGuidId>
+   <elementGuidId>ffe89fca-d283-4bee-9f19-d46c6c7515a7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='loginForm:facilityId_label']</value>
+         <value>//label[@id='InvoiceForm:endType_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>e234591e-1fdd-4be5-ac62-8a56831db050</webElementGuid>
+      <webElementGuid>425c1370-bae4-4505-9d8d-07215c39fa13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:facilityId_label</value>
-      <webElementGuid>218c118a-dd64-4e90-b072-502dba531cdd</webElementGuid>
+      <value>InvoiceForm:endType_label</value>
+      <webElementGuid>32d5f7f6-1fbe-4f6a-9a4c-0cf8fb44c242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>3d6599aa-4da8-47af-8e9e-63922fa507ab</webElementGuid>
+      <webElementGuid>724ba372-509e-4e82-8809-5e792753b5cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,70 +46,78 @@
       <name>text</name>
       <type>Main</type>
       <value>...</value>
-      <webElementGuid>c1b6d160-81de-4005-bfbb-c5d55fa2e8a8</webElementGuid>
+      <webElementGuid>05149028-2725-4521-a4db-1c59f200e888</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:facilityId_label&quot;)</value>
-      <webElementGuid>21320f2b-8134-441d-8cf9-c98cb6e643ef</webElementGuid>
+      <value>id(&quot;InvoiceForm:endType_label&quot;)</value>
+      <webElementGuid>61787eb0-1879-4a1a-8619-70ee62f12c8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='loginForm:facilityId_label']</value>
-      <webElementGuid>80c5154c-3878-47bf-a4df-ff11293d7d5f</webElementGuid>
+      <value>//label[@id='InvoiceForm:endType_label']</value>
+      <webElementGuid>57cc40f8-9fca-442f-92f9-694f1e54436b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginForm:facilityId']/label</value>
-      <webElementGuid>626c584f-5e2f-4347-93b9-f886add1fcb2</webElementGuid>
+      <value>//div[@id='InvoiceForm:endType']/label</value>
+      <webElementGuid>5a5516c7-196c-4cbc-bab0-7da5ca543c80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::label[2]</value>
-      <webElementGuid>ea5ea07c-90eb-4ea5-b9f8-444681b0123e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Type:'])[1]/following::label[1]</value>
+      <webElementGuid>aee0a3bb-2837-45b5-84f4-fc0744c8ec5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::label[1]</value>
-      <webElementGuid>6c3ccf94-85a2-43c6-bffb-10f4f1a47821</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[2]/following::label[1]</value>
+      <webElementGuid>26e6e9de-284d-4cad-a797-882bb3123ddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[2]</value>
-      <webElementGuid>e43bd7cc-ceab-45a4-8420-5265f1a89b18</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Event Type:'])[1]/preceding::label[1]</value>
+      <webElementGuid>8ad8ce78-9bd4-4be6-a012-ad16ad874334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial client service event'])[2]/preceding::label[1]</value>
+      <webElementGuid>69f4af59-5a96-4da2-892f-ee15478149e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/label</value>
-      <webElementGuid>22871bf6-1c10-4d1d-856a-545644fefae0</webElementGuid>
+      <value>//td[2]/div/label</value>
+      <webElementGuid>c911ee78-38a3-4827-8adc-cc825ce34ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'loginForm:facilityId_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>5c7cb342-eb56-4193-ba92-9837b01a6341</webElementGuid>
+      <value>//label[@id = 'InvoiceForm:endType_label' and (text() = '...' or . = '...')]</value>
+      <webElementGuid>6584af16-822b-45c8-ad04-e9d21b94c5d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

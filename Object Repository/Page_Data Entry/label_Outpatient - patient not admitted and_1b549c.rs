@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label__1</name>
+   <name>label_Outpatient - patient not admitted and_1b549c</name>
    <tag></tag>
-   <elementGuidId>1c3da79a-31a5-464d-8460-df1925a3b7cb</elementGuidId>
+   <elementGuidId>ccc9d51e-d48c-4684-986a-ee2909e955f5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='loginForm:facilityId_label']</value>
+         <value>//label[@id='InvoiceForm:icd_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>e234591e-1fdd-4be5-ac62-8a56831db050</webElementGuid>
+      <webElementGuid>efd668f4-acb2-4cf4-9606-54074cf6eded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:facilityId_label</value>
-      <webElementGuid>218c118a-dd64-4e90-b072-502dba531cdd</webElementGuid>
+      <value>InvoiceForm:icd_label</value>
+      <webElementGuid>57ff6f09-924f-42f3-9ac5-b4cd00aa16cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,78 +38,89 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>3d6599aa-4da8-47af-8e9e-63922fa507ab</webElementGuid>
+      <webElementGuid>3545ace4-2961-4ff8-a3f9-b1a3ebae5da3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>...</value>
-      <webElementGuid>c1b6d160-81de-4005-bfbb-c5d55fa2e8a8</webElementGuid>
+      <value>Outpatient - patient not admitted and not seen in Emergency
+Department</value>
+      <webElementGuid>4a67ca9b-c5fc-4096-81ff-ccd7aed7ed13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:facilityId_label&quot;)</value>
-      <webElementGuid>21320f2b-8134-441d-8cf9-c98cb6e643ef</webElementGuid>
+      <value>id(&quot;InvoiceForm:icd_label&quot;)</value>
+      <webElementGuid>c1028299-3d01-4a10-9ef2-9775a42ab2a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='loginForm:facilityId_label']</value>
-      <webElementGuid>80c5154c-3878-47bf-a4df-ff11293d7d5f</webElementGuid>
+      <value>//label[@id='InvoiceForm:icd_label']</value>
+      <webElementGuid>3473baec-de23-435d-9a6c-b6d131bf8f68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginForm:facilityId']/label</value>
-      <webElementGuid>626c584f-5e2f-4347-93b9-f886add1fcb2</webElementGuid>
+      <value>//div[@id='InvoiceForm:icd']/label</value>
+      <webElementGuid>58b7fe8d-c303-4c11-acd5-8f0c1eca1936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::label[2]</value>
-      <webElementGuid>ea5ea07c-90eb-4ea5-b9f8-444681b0123e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encounter Type:*'])[1]/following::label[1]</value>
+      <webElementGuid>a8b0f6a9-9e6f-4c36-a9c4-c65de705bb11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::label[1]</value>
-      <webElementGuid>6c3ccf94-85a2-43c6-bffb-10f4f1a47821</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date:'])[1]/following::label[1]</value>
+      <webElementGuid>fe01803a-eb28-4683-a858-655d69802f1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[2]</value>
-      <webElementGuid>e43bd7cc-ceab-45a4-8420-5265f1a89b18</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Type:'])[1]/preceding::label[1]</value>
+      <webElementGuid>d79a04c5-8f52-470e-9b03-cc4e383253e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::label[1]</value>
+      <webElementGuid>a7ac7685-152f-4e3d-a680-df28b1fe82d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/label</value>
-      <webElementGuid>22871bf6-1c10-4d1d-856a-545644fefae0</webElementGuid>
+      <value>//td[4]/table/tbody/tr/td/div/label</value>
+      <webElementGuid>c90cfb7f-e9d4-4be4-807f-cd4bffd0f774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'loginForm:facilityId_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>5c7cb342-eb56-4193-ba92-9837b01a6341</webElementGuid>
+      <value>//label[@id = 'InvoiceForm:icd_label' and (text() = 'Outpatient - patient not admitted and not seen in Emergency
+Department' or . = 'Outpatient - patient not admitted and not seen in Emergency
+Department')]</value>
+      <webElementGuid>eb0ced55-41f3-480a-8e90-b5bf5d6f9b58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

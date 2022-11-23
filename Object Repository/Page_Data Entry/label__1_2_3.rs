@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sign In</name>
+   <name>label__1_2_3</name>
    <tag></tag>
-   <elementGuidId>01f4262c-0fe1-4292-8528-5e67660acd84</elementGuidId>
+   <elementGuidId>b196e99d-9c43-413a-9d53-368a618f8ca5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']/span</value>
+         <value>//label[@id='InvoiceForm:visit_type_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ui-button-text.ui-c</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0e7ab424-048e-41c9-be39-f9c4f2b4a072</webElementGuid>
+      <value>label</value>
+      <webElementGuid>5fdc5cc9-879c-4f97-8a11-44d6412918a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InvoiceForm:visit_type_label</value>
+      <webElementGuid>c873cdb5-a75c-4fab-89d4-ca2e6c96d9fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>680e6fdf-3ca1-41e8-b789-10be3286a7d4</webElementGuid>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>789392f2-6e18-4a9b-8b26-c37d0db4254d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>e91e671c-ff3c-4bd8-bfdb-12b5bbaf4c97</webElementGuid>
+      <value>...</value>
+      <webElementGuid>57291c86-689d-4fab-95f7-1dcab1b9e4a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>bced9f9c-e05f-4148-94e5-fdef0a684222</webElementGuid>
+      <value>id(&quot;InvoiceForm:visit_type_label&quot;)</value>
+      <webElementGuid>a58103b6-cbd9-463a-932a-1d2455556ab8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='InvoiceForm:visit_type_label']</value>
+      <webElementGuid>306534e9-9dbd-4724-8397-562aeb2e946f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']/span</value>
-      <webElementGuid>356a58a0-e338-4a4c-88f3-e5da5b52ffad</webElementGuid>
+      <value>//div[@id='InvoiceForm:visit_type']/label</value>
+      <webElementGuid>4d31b0a0-58ab-47e6-9ea9-da6bc373bb82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
-      <webElementGuid>2716a35d-f90e-4c86-b7c2-e582a347be21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Type'])[1]/following::label[1]</value>
+      <webElementGuid>bdc242e5-4297-4d61-80a3-bf73859aafca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
-      <webElementGuid>0432707a-0ef0-4f6d-9e9f-c3972a139831</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acute Care'])[2]/following::label[1]</value>
+      <webElementGuid>703067b8-33c7-43c8-b8ef-a4b2aa8c5831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>76cb9e5b-8409-4900-8699-6cff1ed0e066</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>89ce0d3a-5f5c-41cb-82a5-28665656179a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinician:'])[2]/preceding::label[1]</value>
+      <webElementGuid>c9598477-6bc7-450d-8564-1526657f76b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>3e773826-7e16-40df-a972-aafcb20c4377</webElementGuid>
+      <value>//tr[4]/td[2]/div/label</value>
+      <webElementGuid>1341caec-57a5-4370-96d0-469dc20b3534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>8ba618d3-7671-4539-8de9-57e31aab2065</webElementGuid>
+      <value>//label[@id = 'InvoiceForm:visit_type_label' and (text() = '...' or . = '...')]</value>
+      <webElementGuid>e2bd340d-c298-4082-b9dd-487f491552f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Loading_loginFormpassword</name>
+   <name>input__AccumedPatientCreateFormdateOfBirth2_input</name>
    <tag></tag>
-   <elementGuidId>1640db7e-4ae0-404f-82b1-65a8271b11de</elementGuidId>
+   <elementGuidId>88dc0b8b-e8b7-42a2-b4d2-34df85458fe0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='loginForm:password']</value>
+         <value>//input[@id='AccumedPatientCreateForm:dateOfBirth2_input']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,63 +22,63 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>928314c0-7492-40a4-bf54-6e19afbe3a22</webElementGuid>
+      <webElementGuid>6c0180c1-767c-45ae-8516-cad9289a9ccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>7f2aefdb-cb55-4660-ad30-830b8d404d05</webElementGuid>
+      <value>AccumedPatientCreateForm:dateOfBirth2_input</value>
+      <webElementGuid>db4205d0-3d2a-4767-bd9a-8ef6d1100b12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>d1199794-d672-4fae-bd9d-b374b17e0b58</webElementGuid>
+      <value>AccumedPatientCreateForm:dateOfBirth2_input</value>
+      <webElementGuid>b6207ec3-64e9-48b7-9f8b-b4b90458efb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>636c9d9c-6849-497f-80cb-85548a9855fa</webElementGuid>
+      <value>text</value>
+      <webElementGuid>3e2afa72-c4a6-476a-bb65-5dcd281e46a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-password ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>d48af507-88b1-41af-8e98-c9b52a1bd317</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>494e0d32-dbd6-4132-8aab-dee9256d1df6</webElementGuid>
+      <value>ui-inputfield ui-widget ui-state-default ui-corner-all hasDatepicker ui-state-hover ui-state-focus</value>
+      <webElementGuid>c98ebc1d-a920-42b9-a250-ad56d7cb32b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>845af4f8-9057-4b5b-b067-2ecfb88a3503</webElementGuid>
+      <value>dd/MM/yyyy</value>
+      <webElementGuid>709bf25f-92f5-44a3-9d0d-4d343aeb64f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>DateOfBirth</value>
+      <webElementGuid>837ef695-7dfb-4e12-8e95-6a778020ba1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onblur</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value> loadFacilites();  </value>
-      <webElementGuid>b9b0ff2d-74e9-4b1f-b3c0-b23763a24796</webElementGuid>
+      <value>AccumedPatientCreateForm:j_idt1011</value>
+      <webElementGuid>e02535d5-79cf-48e2-9f0e-40d349670f65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>7e6461a9-8b3b-40b3-882e-04b573d1aa10</webElementGuid>
+      <webElementGuid>b69095a9-47b3-4776-b835-c1b40d25051d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>553eef1f-87d3-4064-8255-300d1a07bec0</webElementGuid>
+      <webElementGuid>bb279968-e7cc-4f75-82f1-2283f1e84681</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,46 +102,46 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>caaffca6-730a-43d8-a6a7-4756223a69d0</webElementGuid>
+      <webElementGuid>02d82dc5-fc28-4278-9f21-53b36d615d1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:password&quot;)</value>
-      <webElementGuid>9d0c0add-ef56-4303-b648-5ac730bfade7</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:dateOfBirth2_input&quot;)</value>
+      <webElementGuid>5caad4d9-fc8f-4034-8e16-45942b32ca25</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginForm:password']</value>
-      <webElementGuid>398815d7-a6f0-43bf-90ba-ec8ec0197035</webElementGuid>
+      <value>//input[@id='AccumedPatientCreateForm:dateOfBirth2_input']</value>
+      <webElementGuid>43b6903b-1aea-4723-8326-8e75f55f39a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/input[3]</value>
-      <webElementGuid>b22d373a-245b-48b7-8e49-b468a35b1676</webElementGuid>
+      <value>//span[@id='AccumedPatientCreateForm:dateOfBirth2']/input</value>
+      <webElementGuid>d649a4ac-56d2-4f41-a2e7-d9f00618e1b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[3]</value>
-      <webElementGuid>dbdcb11e-5c03-42bd-a0c8-5a82ddb32e67</webElementGuid>
+      <value>//tr[4]/td[4]/span/input</value>
+      <webElementGuid>ad33d6ce-a763-4862-afeb-dd78f5d40fe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'loginForm:password' and @name = 'loginForm:password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>95c6b669-280a-42cd-9d41-9f347dc91e0f</webElementGuid>
+      <value>//input[@id = 'AccumedPatientCreateForm:dateOfBirth2_input' and @name = 'AccumedPatientCreateForm:dateOfBirth2_input' and @type = 'text' and @placeholder = 'dd/MM/yyyy' and @title = 'DateOfBirth']</value>
+      <webElementGuid>0d06d839-acae-4d01-a887-4dcb64490f5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sign In</name>
+   <name>p_Patient has been added successfully</name>
    <tag></tag>
-   <elementGuidId>01f4262c-0fe1-4292-8528-5e67660acd84</elementGuidId>
+   <elementGuidId>39e7fa7b-749f-4afa-8087-a222ed9017ab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']/span</value>
+         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ui-button-text.ui-c</value>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0e7ab424-048e-41c9-be39-f9c4f2b4a072</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>680e6fdf-3ca1-41e8-b789-10be3286a7d4</webElementGuid>
+      <value>p</value>
+      <webElementGuid>1b532e65-4310-4067-a345-591bbfc0ac8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>e91e671c-ff3c-4bd8-bfdb-12b5bbaf4c97</webElementGuid>
+      <value>Patient has been added successfully.</value>
+      <webElementGuid>b50b9797-29db-4f87-b2a2-b5382d6cfc00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>bced9f9c-e05f-4148-94e5-fdef0a684222</webElementGuid>
+      <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-message&quot;]/p[1]</value>
+      <webElementGuid>90169654-7799-40e7-8392-92f491f796f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']/span</value>
-      <webElementGuid>356a58a0-e338-4a4c-88f3-e5da5b52ffad</webElementGuid>
+      <value>//div[@id='growl_container']/div/div/div[2]/p</value>
+      <webElementGuid>a2cf8898-acf1-4f80-b893-152632613c35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
-      <webElementGuid>2716a35d-f90e-4c86-b7c2-e582a347be21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient has been added successfully.'])[1]/following::p[1]</value>
+      <webElementGuid>66689149-a753-426d-818d-6882421a7d5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
-      <webElementGuid>0432707a-0ef0-4f6d-9e9f-c3972a139831</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[2]/following::p[1]</value>
+      <webElementGuid>77d6e0ad-d7bd-4a1d-a70d-d8cda14e3c19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>76cb9e5b-8409-4900-8699-6cff1ed0e066</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
+      <webElementGuid>786dde16-de9c-4de0-addb-f4348907197f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>89ce0d3a-5f5c-41cb-82a5-28665656179a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
+      <webElementGuid>59b4f666-6591-4e20-9f59-55250b861608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>3e773826-7e16-40df-a972-aafcb20c4377</webElementGuid>
+      <value>//p</value>
+      <webElementGuid>ea4e2f30-2466-4830-80b1-a6062494f18e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>8ba618d3-7671-4539-8de9-57e31aab2065</webElementGuid>
+      <value>//p[(text() = 'Patient has been added successfully.' or . = 'Patient has been added successfully.')]</value>
+      <webElementGuid>ec2da41b-5483-48e8-adbe-5edd321f5fc7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Outpatient - patient not admitted and no_579973</name>
+   <tag></tag>
+   <elementGuidId>6ce8e072-a053-408f-b3c9-998afce9aef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='InvoiceForm:icd_5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9f61cc86-24ad-40a9-980c-9f42f4a747a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-item ui-selectonemenu-list-item ui-corner-all ui-state-highlight</value>
+      <webElementGuid>aec7c229-babd-4ccc-9808-4928b08877ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label</name>
+      <type>Main</type>
+      <value>Outpatient - patient not admitted and not seen in Emergency
+Department</value>
+      <webElementGuid>27860a34-080f-46af-b0c5-3ee3ed28de0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>591c49a4-e50f-41eb-8557-ec9df0b4299c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>73614258-d8e0-4ea4-a3ba-6ae88c4e65ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InvoiceForm:icd_5</value>
+      <webElementGuid>f6c9e5ae-b9d5-408e-b525-b35a0a7e4df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outpatient - patient not admitted and not seen in Emergency
+Department</value>
+      <webElementGuid>18fdc29e-fc79-4e4b-9d8a-960256d2bb95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InvoiceForm:icd_5&quot;)</value>
+      <webElementGuid>d39fd041-38d0-4aef-ab08-61fbbce9ad78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='InvoiceForm:icd_5']</value>
+      <webElementGuid>238bbe5c-36a8-45e1-8bf5-d86ec8276545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='InvoiceForm:icd_items']/li[6]</value>
+      <webElementGuid>e82e3579-6efc-4b57-8ec2-2d8b70d73008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital Inpatient - patient occupies inpatient bed and stays overnight'])[4]/following::li[1]</value>
+      <webElementGuid>dfc8db75-b98e-46ed-84cd-d696e6ddade8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Health Care – patient is seen in the home'])[4]/following::li[2]</value>
+      <webElementGuid>95271d46-c8bb-4289-83b8-412955e07243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Admission'])[4]/preceding::li[1]</value>
+      <webElementGuid>ff43e651-a521-4c38-bb5e-0fc4e8605747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Health Care – patient is seen in a facility/centre outside of the hospital.'])[4]/preceding::li[2]</value>
+      <webElementGuid>bced427f-c223-4e62-81d0-7dc61bf1c9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[85]/div/ul/li[6]</value>
+      <webElementGuid>bae0285a-9fd5-44bf-8682-76f1036da7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'InvoiceForm:icd_5' and (text() = 'Outpatient - patient not admitted and not seen in Emergency
+Department' or . = 'Outpatient - patient not admitted and not seen in Emergency
+Department')]</value>
+      <webElementGuid>066dba21-b8e8-4bbf-be73-5d59e8e69610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

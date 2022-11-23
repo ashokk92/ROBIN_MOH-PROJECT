@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sign In</name>
+   <name>td_AMAL  (R) ELSAID</name>
    <tag></tag>
-   <elementGuidId>01f4262c-0fe1-4292-8528-5e67660acd84</elementGuidId>
+   <elementGuidId>64a69514-2ce4-4d3b-90b2-1f86f9b970b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']/span</value>
+         <value>//span[@id='InvoiceForm:clinician_panel']/table/tbody/tr[7]/td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ui-button-text.ui-c</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>0e7ab424-048e-41c9-be39-f9c4f2b4a072</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-button-text ui-c</value>
-      <webElementGuid>680e6fdf-3ca1-41e8-b789-10be3286a7d4</webElementGuid>
+      <value>td</value>
+      <webElementGuid>eb56b9bb-9fb2-4e21-bc41-fe02b20cb272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>e91e671c-ff3c-4bd8-bfdb-12b5bbaf4c97</webElementGuid>
+      <value>AMAL  (R) ELSAID</value>
+      <webElementGuid>6b488f0d-4e7f-4fc6-a647-571c4a3f8830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>bced9f9c-e05f-4148-94e5-fdef0a684222</webElementGuid>
+      <value>id(&quot;InvoiceForm:clinician_panel&quot;)/table[@class=&quot;ui-autocomplete-items ui-autocomplete-table ui-widget-content ui-widget ui-corner-all ui-helper-reset&quot;]/tbody[1]/tr[@class=&quot;ui-autocomplete-item ui-autocomplete-row ui-widget-content ui-corner-all ui-state-highlight&quot;]/td[2]</value>
+      <webElementGuid>fcdfb53b-7afc-4bbc-b089-c4f2effdee44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']/span</value>
-      <webElementGuid>356a58a0-e338-4a4c-88f3-e5da5b52ffad</webElementGuid>
+      <value>//span[@id='InvoiceForm:clinician_panel']/table/tbody/tr[7]/td[2]</value>
+      <webElementGuid>5a6a7f84-f947-4e6a-9d9b-c33c578e3f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
-      <webElementGuid>2716a35d-f90e-4c86-b7c2-e582a347be21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIDAL ALSKAIF (C) MED'])[1]/following::td[4]</value>
+      <webElementGuid>e1094fbc-86ee-44a1-a432-d359c21adf79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
-      <webElementGuid>0432707a-0ef0-4f6d-9e9f-c3972a139831</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[3]/following::td[6]</value>
+      <webElementGuid>adcc83ad-9d7a-430f-8137-6a8d9ddd05e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>76cb9e5b-8409-4900-8699-6cff1ed0e066</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[4]/preceding::td[1]</value>
+      <webElementGuid>e277f1e0-7591-4a8f-b7b8-e557d0eec4fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>89ce0d3a-5f5c-41cb-82a5-28665656179a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERAL PRACTICE'])[5]/preceding::td[2]</value>
+      <webElementGuid>6cb4be65-305d-4ba8-bb78-93a15139d8cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>3e773826-7e16-40df-a972-aafcb20c4377</webElementGuid>
+      <value>//span[6]/table/tbody/tr[7]/td[2]</value>
+      <webElementGuid>3d2bb7db-1e84-4553-a3c5-f23b5352fa75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>8ba618d3-7671-4539-8de9-57e31aab2065</webElementGuid>
+      <value>//td[(text() = 'AMAL  (R) ELSAID' or . = 'AMAL  (R) ELSAID')]</value>
+      <webElementGuid>6e957245-e7dc-499c-82b6-8532888423b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
