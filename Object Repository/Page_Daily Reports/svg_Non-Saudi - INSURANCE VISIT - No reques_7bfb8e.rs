@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Non-Saudi - INSURANCE VISIT - No reques_7bfb8e</name>
+   <tag></tag>
+   <elementGuidId>89b8f901-a005-4ca4-9e97-5efa7e353bb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d0972d9b-c922-43d1-bace-ba1b2fe06113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>930</value>
+      <webElementGuid>9affcb9a-9286-4988-b63c-1b6d6d6cc1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>450</value>
+      <webElementGuid>d172ad81-e1de-4590-97ca-250419bb2766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non-Saudi - INSURANCE VISIT - No request - ER 1 (100.0%)1(100.0%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - ER</value>
+      <webElementGuid>557ae287-aef9-42d2-83f1-27cc1cc68043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pieChart&quot;)/svg[1]</value>
+      <webElementGuid>f910e96a-6ba9-46b6-942e-5742dcb5f3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e0c5770b-01f4-4dbc-ba51-c54aac7bf5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fe13e96f-98e7-4286-ace2-295ee4b415ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Non-Saudi - INSURANCE VISIT - No request - ER 1 (100.0%)1(100.0%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - ER' or . = 'Non-Saudi - INSURANCE VISIT - No request - ER 1 (100.0%)1(100.0%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - ER')]</value>
+      <webElementGuid>9fdc57ed-0932-44f4-a575-aa4eede1a7ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

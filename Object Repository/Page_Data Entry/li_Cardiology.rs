@@ -6,12 +6,12 @@
    <elementGuidId>586f7439-5ec8-4f9d-ab66-c5f7becebc0c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='InvoiceForm:department_4']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='InvoiceForm:department_4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>97683f82-70a6-4afb-95bb-e072c3524007</webElementGuid>
+      <webElementGuid>a90f72b9-69e2-44c7-87ac-7e195d43a6f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-selectonemenu-item ui-selectonemenu-list-item ui-corner-all ui-state-hover</value>
-      <webElementGuid>72b0cf34-f5b2-45eb-9605-f1c80c198619</webElementGuid>
+      <value>ui-selectonemenu-item ui-selectonemenu-list-item ui-corner-all</value>
+      <webElementGuid>1509c1b6-d691-4e4c-8a02-7dc460572828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-label</name>
       <type>Main</type>
       <value>Cardiology</value>
-      <webElementGuid>affc3c41-3f79-46e9-a621-80f4d891055c</webElementGuid>
+      <webElementGuid>822ada54-ef34-4902-95eb-36d8953abaee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>20943662-65cb-4902-956a-37d394ed7c2b</webElementGuid>
+      <webElementGuid>b23153bb-cdc0-48ce-875b-a7ff78b4800e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>eab71371-2af5-4b65-85d4-19c8f00e7d17</webElementGuid>
+      <webElementGuid>d116b112-4dfb-4d65-b57f-c5d0f7d2b17f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>InvoiceForm:department_4</value>
-      <webElementGuid>6c996f25-3c63-4929-b120-cc3dae061bf6</webElementGuid>
+      <webElementGuid>0b89482d-3136-43f8-91a8-fb482fa920fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cardiology</value>
-      <webElementGuid>865a8d45-322f-4761-bd3e-e3c4f5ce7ac4</webElementGuid>
+      <webElementGuid>2f31cfe7-c95a-42b3-a73c-ab4f64f0be50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;InvoiceForm:department_4&quot;)</value>
-      <webElementGuid>6f4ce16f-0547-4c74-8b96-36a3d6ce11ea</webElementGuid>
+      <webElementGuid>1aa6dd44-184d-49cd-81d4-3628353b4f67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='InvoiceForm:department_4']</value>
-      <webElementGuid>46485f12-d067-4421-998a-edead5f5ed6d</webElementGuid>
+      <webElementGuid>8157c8d3-5cbc-4c87-bce6-7ff25ccee147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='InvoiceForm:department_items']/li[5]</value>
-      <webElementGuid>75d3c7da-e82d-4e10-bb2f-51dc2b5d8b87</webElementGuid>
+      <webElementGuid>62e130f2-28a8-4852-8778-34e20c02a3e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Trip Check up'])[4]/following::li[1]</value>
-      <webElementGuid>df5472e2-4938-42e3-8255-748f7bfc1079</webElementGuid>
+      <webElementGuid>89cebeae-3e7a-4093-ae2d-a1b326767c83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artificial Limbs'])[4]/following::li[2]</value>
-      <webElementGuid>be36f400-ea89-4081-8abc-9d7cca93736b</webElementGuid>
+      <webElementGuid>ae19b8ce-da98-4704-8871-e1a37e2b5465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,23 +118,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardiothoracic Surgery'])[4]/preceding::li[1]</value>
-      <webElementGuid>67cd4f9e-6b07-40e1-a5d6-7b42083045b8</webElementGuid>
+      <webElementGuid>e78fa37c-779a-4bfe-8f36-188b4e42a32f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dental'])[14]/preceding::li[2]</value>
-      <webElementGuid>bdfd87fd-c029-473c-af6e-8eff18b3ec6e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dental'])[4]/preceding::li[2]</value>
+      <webElementGuid>e1925031-3afe-4b58-882f-352366dfe5d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[81]/div/ul/li[5]</value>
-      <webElementGuid>a968263d-506b-4f77-999c-f3ddd8e43755</webElementGuid>
+      <value>//div[38]/div/ul/li[5]</value>
+      <webElementGuid>310ef888-5e82-42dd-850e-d5dc495f2308</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'InvoiceForm:department_4' and (text() = 'Cardiology' or . = 'Cardiology')]</value>
-      <webElementGuid>6ed2e9fc-b54f-4eb8-995c-8ec3f3e01590</webElementGuid>
+      <webElementGuid>858c2e88-14ce-41c2-b3e5-9c69c79080af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_choose department</name>
+   <tag></tag>
+   <elementGuidId>147fc484-dbba-4787-9ff0-ebe1191b64d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='MISReportsForm:j_idt221_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4f7f2d5e-cd87-4190-957b-fcdd8062e1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectcheckboxmenu-label ui-corner-all ui-state-hover</value>
+      <webElementGuid>8ebf0c9c-7223-44d3-a5ec-f38f2dd9ff4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MISReportsForm:j_idt221_label</value>
+      <webElementGuid>f78e9935-16c2-419e-8e07-3d52903630f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>choose department</value>
+      <webElementGuid>b360b7d8-cb36-4f67-b6d4-aad0394eadbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MISReportsForm:j_idt221_label&quot;)</value>
+      <webElementGuid>d8199a51-2a02-4618-a5dd-462f51bdcd8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='MISReportsForm:j_idt221_label']</value>
+      <webElementGuid>eee1054f-8308-405e-8f4c-5759ccdd8976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MISReportsForm:j_idt221']/span/label</value>
+      <webElementGuid>aeffc1f9-502c-430f-bf18-38ac0e665584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vascular Surgery'])[1]/following::label[1]</value>
+      <webElementGuid>6e3818db-7f3e-44f5-9828-44848e210529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urology'])[1]/following::label[2]</value>
+      <webElementGuid>5bda28dc-da75-453f-9e78-6fee285422d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ART Care Unit'])[1]/preceding::label[1]</value>
+      <webElementGuid>d327acce-4e00-43d4-9e18-23c9b303eafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accomdation Charges'])[1]/preceding::label[2]</value>
+      <webElementGuid>b22f1c33-45ae-43b6-b649-0fe7ccff2e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='choose department']/parent::*</value>
+      <webElementGuid>4bfd288b-9831-4250-a9cc-4c5d4981c4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/label</value>
+      <webElementGuid>9f1bdd6d-79ff-4e3c-ac8e-ef698ad38002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'MISReportsForm:j_idt221_label' and (text() = 'choose department' or . = 'choose department')]</value>
+      <webElementGuid>6db4f99f-170b-4313-8b10-a4d0d147e2fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

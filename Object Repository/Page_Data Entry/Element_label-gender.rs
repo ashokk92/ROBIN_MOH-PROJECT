@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_label-gender</name>
+   <tag></tag>
+   <elementGuidId>1baed956-d83a-4c78-ba0e-4c00dcd180a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id=&quot;AccumedPatientCreateForm:genderId_label&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>62512e53-7841-43ec-a2e3-6f41965ed135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1669269401231</value>
+      <webElementGuid>2a487bc2-e2c6-45e2-8c41-1ee4d30da111</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Doctor not available</name>
+   <tag></tag>
+   <elementGuidId>4a720b5f-f558-46ca-9d30-c7fdc0d28ac8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='billItemsForm:refundReason_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6483481b-85e4-4e24-88b3-5870c72b018e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>billItemsForm:refundReason_label</value>
+      <webElementGuid>696752df-9417-4d52-8db5-4147f483e811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>78e6d5df-b2b0-436d-8c09-164de3aaf859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Refund Reason</value>
+      <webElementGuid>b94e2d9a-bbb9-4fd9-9a49-feffe0593f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor not available</value>
+      <webElementGuid>e1fc8107-faca-4cfa-b84d-ab0880fa6b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billItemsForm:refundReason_label&quot;)</value>
+      <webElementGuid>013eab76-ee93-4e81-b665-b5933f60e9c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='billItemsForm:refundReason_label']</value>
+      <webElementGuid>bd7cd8bc-cdbb-45d3-a5b7-4f822a8cac38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='billItemsForm:refundReason']/label</value>
+      <webElementGuid>4326792f-1b96-48c5-bf0d-25d2f64a6d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Reason:'])[1]/following::label[1]</value>
+      <webElementGuid>01be7f6f-1d3f-4d57-a0fc-72725e0d08e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[3]/following::label[2]</value>
+      <webElementGuid>296d04a0-e259-485a-8275-a3809f83d7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Refund Amount:'])[1]/preceding::label[1]</value>
+      <webElementGuid>a6fb8ffb-803e-489e-879a-1619cfb43b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes, If any'])[1]/preceding::label[3]</value>
+      <webElementGuid>73956c5d-3405-4bf7-8290-fe91a5c3df0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/table/tbody/tr/td[2]/div/label</value>
+      <webElementGuid>a61922b1-061b-4973-828f-cd298b38f18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'billItemsForm:refundReason_label' and (text() = 'Doctor not available' or . = 'Doctor not available')]</value>
+      <webElementGuid>57fd6fff-0590-4716-b558-5b40b6a282af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

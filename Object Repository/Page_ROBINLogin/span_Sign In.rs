@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0e7ab424-048e-41c9-be39-f9c4f2b4a072</webElementGuid>
+      <webElementGuid>c72d4df7-1bc3-4095-bd7c-409d13455b42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>680e6fdf-3ca1-41e8-b789-10be3286a7d4</webElementGuid>
+      <webElementGuid>83d6ab95-09ba-43d6-b756-8b4480609325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>e91e671c-ff3c-4bd8-bfdb-12b5bbaf4c97</webElementGuid>
+      <webElementGuid>28a1f9a9-a4a0-47c4-9292-64664585ad48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm:j_idt29&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>bced9f9c-e05f-4148-94e5-fdef0a684222</webElementGuid>
+      <webElementGuid>308122ab-7520-438f-93cf-d4069f4e0bd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='loginForm:j_idt29']/span</value>
-      <webElementGuid>356a58a0-e338-4a4c-88f3-e5da5b52ffad</webElementGuid>
+      <webElementGuid>843e771a-a0f7-439f-ae46-f827f3e2ceda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
-      <webElementGuid>2716a35d-f90e-4c86-b7c2-e582a347be21</webElementGuid>
+      <webElementGuid>854b8cf1-068c-4b1a-b141-a17f421567ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
-      <webElementGuid>0432707a-0ef0-4f6d-9e9f-c3972a139831</webElementGuid>
+      <webElementGuid>a5c7808b-2f0b-4660-bfd1-5bdb16232e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>76cb9e5b-8409-4900-8699-6cff1ed0e066</webElementGuid>
+      <webElementGuid>ae5b6f28-a90e-4d29-b1f1-e66838f20763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>89ce0d3a-5f5c-41cb-82a5-28665656179a</webElementGuid>
+      <webElementGuid>b7ed36db-cece-4b24-82d9-a82af1c7e34f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>3e773826-7e16-40df-a972-aafcb20c4377</webElementGuid>
+      <webElementGuid>0a00d139-fa45-454b-b722-75d2a6af9a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>8ba618d3-7671-4539-8de9-57e31aab2065</webElementGuid>
+      <webElementGuid>e885b2f0-8e59-4723-bfe1-1dd759849aa0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

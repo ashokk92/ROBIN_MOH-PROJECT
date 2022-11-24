@@ -29,17 +29,17 @@ WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Create New Vi
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_New patient'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormmrn'), 'mrn-78//*')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormmrn'), 'mrn-109..*8')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_National ID_AccumedPatientCreateForme_a5ef9f'), '23589/0.3*')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_National ID_AccumedPatientCreateForme_a5ef9f'), '0000369999')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormMiddlename'), 'sanyhja')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormMiddlename'), 'PALASAD')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientName'), 'sahuyt')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientName'), 'PARINAYANM')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientSurname'), 'garam')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientSurname'), 'HARDVARD')
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label_'))
+WebUI.click(findTestObject('Page_Data Entry/Element_label-gender'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_Male'))
 
@@ -47,13 +47,13 @@ WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPa
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/a_23'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label_Select One'))
+WebUI.click(findTestObject('Page_Data Entry/span_Select One_ui-icon ui-icon-triangle-1-s ui-c'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_Married'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Mobile_AccumedPatientCreateFormmobile'), '9989965593')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Email_AccumedPatientCreateFormemail'), 'jkui@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Email_AccumedPatientCreateFormemail'), 'ikuy6@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Insert Patient'))
 
@@ -63,15 +63,15 @@ WebUI.getText(findTestObject('Page_Data Entry/p_Patient has been added successfu
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Data Entry/p_Patient has been added successfully'), 'Patient has been added successfully.')
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label__1'))
+WebUI.click(findTestObject('Page_Data Entry/Element_depart'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_Cardiology'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label__1_2'))
+WebUI.click(findTestObject('Page_Data Entry/Element_endtype'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_HomeOther'))
 
-WebUI.click(findTestObject('Object Repository/Page_Data Entry/label__1_2_3'))
+WebUI.click(findTestObject('Page_Data Entry/Element_visit type'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_New'))
 

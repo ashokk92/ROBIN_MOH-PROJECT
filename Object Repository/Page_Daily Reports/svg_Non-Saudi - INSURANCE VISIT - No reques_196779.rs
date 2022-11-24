@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Non-Saudi - INSURANCE VISIT - No reques_196779</name>
+   <tag></tag>
+   <elementGuidId>e21e03c4-abec-42a0-90c2-1a5c8e4ee840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ae59748b-6461-420e-82d3-29cae6d973da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>930</value>
+      <webElementGuid>12bd7b6f-58fd-45b7-aa1b-d9e0aad39d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>450</value>
+      <webElementGuid>9e77d1dd-26dc-420e-a743-aecef66a8e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non-Saudi - INSURANCE VISIT - No request - OP 92 (65.2%)Non-Saudi - CASH VISIT - No request - OP 24 (17.0%)Non-Saudi - INSURANCE VISIT - No request - IP 16 (11.3%)Non-Saudi - CASH VISIT - No request - IP 7 (5.0%)Non-Saudi - INSURANCE VISIT - No request - ER 1 (0.7%)Saudi - INSURANCE VISIT - No request - OP 1 (0.7%)92(65.2%)24(17.0%)16(11.3%)7(5.0%)1(0.7%)1(0.7%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPNon-Saudi - INSURANCE VISIT - No request - IPNon-Saudi - CASH VISIT - No request - IPNon-Saudi - INSURANCE VISIT - No request - ERSaudi - INSURANCE VISIT - No request - OP</value>
+      <webElementGuid>596c5b81-7f55-4a10-a9ba-2735dbcb329a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pieChart&quot;)/svg[1]</value>
+      <webElementGuid>83983522-703a-4323-ad6e-6209b1b67efb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b7c2b9e1-a146-4ac1-8284-8ed67e20a00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6e7bb81f-bac6-4083-82e9-9d032fe16c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Non-Saudi - INSURANCE VISIT - No request - OP 92 (65.2%)Non-Saudi - CASH VISIT - No request - OP 24 (17.0%)Non-Saudi - INSURANCE VISIT - No request - IP 16 (11.3%)Non-Saudi - CASH VISIT - No request - IP 7 (5.0%)Non-Saudi - INSURANCE VISIT - No request - ER 1 (0.7%)Saudi - INSURANCE VISIT - No request - OP 1 (0.7%)92(65.2%)24(17.0%)16(11.3%)7(5.0%)1(0.7%)1(0.7%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPNon-Saudi - INSURANCE VISIT - No request - IPNon-Saudi - CASH VISIT - No request - IPNon-Saudi - INSURANCE VISIT - No request - ERSaudi - INSURANCE VISIT - No request - OP' or . = 'Non-Saudi - INSURANCE VISIT - No request - OP 92 (65.2%)Non-Saudi - CASH VISIT - No request - OP 24 (17.0%)Non-Saudi - INSURANCE VISIT - No request - IP 16 (11.3%)Non-Saudi - CASH VISIT - No request - IP 7 (5.0%)Non-Saudi - INSURANCE VISIT - No request - ER 1 (0.7%)Saudi - INSURANCE VISIT - No request - OP 1 (0.7%)92(65.2%)24(17.0%)16(11.3%)7(5.0%)1(0.7%)1(0.7%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPNon-Saudi - INSURANCE VISIT - No request - IPNon-Saudi - CASH VISIT - No request - IPNon-Saudi - INSURANCE VISIT - No request - ERSaudi - INSURANCE VISIT - No request - OP')]</value>
+      <webElementGuid>6268eb64-86a5-474e-abed-2f4b99aa68cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

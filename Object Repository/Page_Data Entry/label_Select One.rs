@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='AccumedPatientCreateForm:martial_label']</value>
+         <value>//label[@id='AccumedPatientInsuranceCreateForm:isver_label']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>8325fdd5-2ec0-47b3-a2ba-9fd6b4383c24</webElementGuid>
+      <webElementGuid>04c44018-1942-41d6-9289-8d3135c96b1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>AccumedPatientCreateForm:martial_label</value>
-      <webElementGuid>49e38da1-16fa-49fb-89df-1f8f30ab4006</webElementGuid>
+      <value>AccumedPatientInsuranceCreateForm:isver_label</value>
+      <webElementGuid>0b350942-9231-42fc-8e6f-f20c97b188e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,86 +38,78 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>21396086-1acb-4282-994b-57e9755df7df</webElementGuid>
+      <webElementGuid>bf8d4fa4-bb76-48fb-8b62-8fd9d487a31f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select One...</value>
-      <webElementGuid>14fbe294-ebf0-4c9a-ae91-8a666b99a2f0</webElementGuid>
+      <value>Select One</value>
+      <webElementGuid>999bb7e6-ce21-40ce-893f-267d9ccb796e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AccumedPatientCreateForm:martial_label&quot;)</value>
-      <webElementGuid>b7099543-f819-46ca-a197-ba643c22ab2f</webElementGuid>
+      <value>id(&quot;AccumedPatientInsuranceCreateForm:isver_label&quot;)</value>
+      <webElementGuid>d6bfc8a4-8b44-4234-899c-a5037d77fc33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='AccumedPatientCreateForm:martial_label']</value>
-      <webElementGuid>b3cea848-6725-4b70-a5d0-8e818cbdf455</webElementGuid>
+      <value>//label[@id='AccumedPatientInsuranceCreateForm:isver_label']</value>
+      <webElementGuid>f0921c1d-9a57-4eaa-bcac-a28c1163db44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='AccumedPatientCreateForm:martial']/label</value>
-      <webElementGuid>6b4186ec-2b3a-4861-889e-35c4743712d7</webElementGuid>
+      <value>//div[@id='AccumedPatientInsuranceCreateForm:isver']/label</value>
+      <webElementGuid>5d78492f-81c2-4070-92e3-8d450c27a974</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::label[1]</value>
-      <webElementGuid>f2562148-d9ea-421f-b10e-23a1984b3222</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::label[1]</value>
+      <webElementGuid>f8f6bb2d-c70c-44c6-82f1-4c7d86e3930d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFGHANISTAN'])[2]/following::label[2]</value>
-      <webElementGuid>de7c96b9-8f2d-43bb-a1fb-64913fb0ed5b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Copayment:'])[1]/preceding::label[1]</value>
+      <webElementGuid>1b12e7e5-eea1-4144-af6d-15a4cb848880</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::label[1]</value>
-      <webElementGuid>2931a092-d0f2-4c11-b8ce-82af3bb48326</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office'])[1]/preceding::label[2]</value>
-      <webElementGuid>1b416a0d-1d8c-4f7a-b055-c6a556b2cf82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OP MaxPatientShare:'])[1]/preceding::label[3]</value>
+      <webElementGuid>a2414825-fa6c-44ba-81d3-329dc8ede4f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/table/tbody/tr[5]/td[2]/div/label</value>
-      <webElementGuid>4e8298f3-f5c6-439a-ab6b-3fab135fb767</webElementGuid>
+      <value>//tr[8]/td[2]/div/label</value>
+      <webElementGuid>1d38770a-79cc-4767-a161-0a78db0c0eb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'AccumedPatientCreateForm:martial_label' and (text() = 'Select One...' or . = 'Select One...')]</value>
-      <webElementGuid>df9e4750-d83d-4160-8ef4-77cea5baabf5</webElementGuid>
+      <value>//label[@id = 'AccumedPatientInsuranceCreateForm:isver_label' and (text() = 'Select One' or . = 'Select One')]</value>
+      <webElementGuid>3f25e18c-4415-434e-beef-0717c80f6f48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

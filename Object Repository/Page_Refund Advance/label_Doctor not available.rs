@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Doctor not available</name>
+   <tag></tag>
+   <elementGuidId>7bc3d10b-71ed-4afa-8579-b875607d87c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='RefundAdvanceCollectionDlgForm:refundReason_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b70b9196-7657-4424-85a2-f0cde3129d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RefundAdvanceCollectionDlgForm:refundReason_label</value>
+      <webElementGuid>702ffe09-ef1f-4499-a2b4-6866ca2dba5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>4eeef859-fcc2-4dba-bf4d-e4c1d7f6a94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Refund Reason</value>
+      <webElementGuid>f657404c-0dcf-4d7e-8b15-06fdd7220a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor not available</value>
+      <webElementGuid>045c27c4-8c88-420a-9aaa-2b9b6f276af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RefundAdvanceCollectionDlgForm:refundReason_label&quot;)</value>
+      <webElementGuid>c718bd9d-c6c8-484e-89f0-a22354fcc53d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='RefundAdvanceCollectionDlgForm:refundReason_label']</value>
+      <webElementGuid>ca91fc2b-e518-451e-8d6d-114108752038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RefundAdvanceCollectionDlgForm:refundReason']/label</value>
+      <webElementGuid>805ee63e-1f18-4231-8411-2561142f9afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Reason'])[1]/following::label[1]</value>
+      <webElementGuid>2c24fa4f-04e9-49dc-baf2-94f404909fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund Advance Collection'])[1]/following::label[2]</value>
+      <webElementGuid>2d12143d-567f-46c7-ab61-225ab63b0386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund amount'])[1]/preceding::label[1]</value>
+      <webElementGuid>2d9f091f-f8c2-4bd0-beac-971c89317c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Refund Amount'])[1]/preceding::label[2]</value>
+      <webElementGuid>11e0892a-7187-46ee-9e04-9c4b65a00f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/label</value>
+      <webElementGuid>1571488e-a12e-4d01-b410-09ef2e650b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'RefundAdvanceCollectionDlgForm:refundReason_label' and (text() = 'Doctor not available' or . = 'Doctor not available')]</value>
+      <webElementGuid>ddebe3b4-2423-4972-9577-1020496a88a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

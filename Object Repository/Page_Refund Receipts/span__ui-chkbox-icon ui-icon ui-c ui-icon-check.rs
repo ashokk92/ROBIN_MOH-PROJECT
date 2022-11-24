@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__ui-chkbox-icon ui-icon ui-c ui-icon-check</name>
+   <tag></tag>
+   <elementGuidId>08a454a5-9769-4c7c-8aac-4609bff79095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-chkbox-icon.ui-icon.ui-c.ui-icon-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='billItemsForm:dtBillItems:j_idt205']/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a5a67aa-035e-406d-aef0-e7b0f0705aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-icon ui-icon ui-c ui-icon-check</value>
+      <webElementGuid>2a58078e-53ee-464c-a673-dd8220c1044b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billItemsForm:dtBillItems:j_idt205&quot;)/div[@class=&quot;ui-chkbox ui-chkbox-all ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ui-state-active&quot;]/span[@class=&quot;ui-chkbox-icon ui-icon ui-c ui-icon-check&quot;]</value>
+      <webElementGuid>5072b017-f348-46f8-9fe4-1ad5f147e3f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='billItemsForm:dtBillItems:j_idt205']/div/div[2]/span</value>
+      <webElementGuid>789cc703-d596-4af9-8a50-c8a1230dc653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/div[2]/span</value>
+      <webElementGuid>32f5e102-d23b-4ea3-bcc7-911b83a8f933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

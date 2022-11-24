@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_payer</name>
+   <tag></tag>
+   <elementGuidId>b5ff8d8f-0ade-48dc-98a7-269b084d18f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id=&quot;AccumedPatientInsuranceCreateForm:insuranceLisence_label&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>17117e5e-5760-435a-b6fe-34a69c8d48f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1669270425845</value>
+      <webElementGuid>e222209c-55f6-4744-b7ea-83e7887b5381</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_P-SAVE</name>
+   <tag></tag>
+   <elementGuidId>0a1ca412-bf58-4242-a7f1-e105aa24553d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//BUTTON[@ID=&quot;AccumedCliniciansCreateForm:j_idt270&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>3da51f41-afb8-4d50-9da9-5cf0f94539fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1669207826503</value>
+      <webElementGuid>de818ffc-bbf1-4702-902d-8e0cd5c6271e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

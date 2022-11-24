@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_choose Service Category</name>
+   <tag></tag>
+   <elementGuidId>c807ae16-31ed-4596-aa13-4810676eabcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='MISReportsForm:j_idt223_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e371209e-9d26-47cc-b927-b21d629049a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectcheckboxmenu-label ui-corner-all ui-state-hover</value>
+      <webElementGuid>df757a8f-306e-4952-acc5-9ca840c95ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MISReportsForm:j_idt223_label</value>
+      <webElementGuid>5a8d68fa-04f9-48c8-a1a1-8bfd2a34230f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>choose Service Category</value>
+      <webElementGuid>c7d32d54-7987-456c-9f42-fe50a5488f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MISReportsForm:j_idt223_label&quot;)</value>
+      <webElementGuid>93ce4150-d79e-4a31-b2e0-63a616d8d491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='MISReportsForm:j_idt223_label']</value>
+      <webElementGuid>3afa5487-63b3-4891-a7a3-ff954aab52c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MISReportsForm:j_idt223']/span/label</value>
+      <webElementGuid>b5d31c04-d977-439d-a85b-aec9966d9e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='plaster room'])[1]/following::label[1]</value>
+      <webElementGuid>3158e555-a6f1-4e62-9458-fea2740af5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pediatric surgery'])[1]/following::label[2]</value>
+      <webElementGuid>534ef790-3c33-44e1-b7e0-264952e13a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Report'])[1]/preceding::label[1]</value>
+      <webElementGuid>f25b28d3-5f94-460f-8bbb-0b38f34d4344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::label[1]</value>
+      <webElementGuid>35bff29a-ba1a-43fa-8385-4f26bf810f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='choose Service Category']/parent::*</value>
+      <webElementGuid>89cd8fd4-dabe-4bdb-9ae7-3ccaddfa43aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/span/label</value>
+      <webElementGuid>5ac21d5a-f841-4a17-b142-8105ce720f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'MISReportsForm:j_idt223_label' and (text() = 'choose Service Category' or . = 'choose Service Category')]</value>
+      <webElementGuid>f241f976-b231-4482-91a0-75e0afbe8a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

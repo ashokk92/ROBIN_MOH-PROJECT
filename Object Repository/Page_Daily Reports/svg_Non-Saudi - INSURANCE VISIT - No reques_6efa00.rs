@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Non-Saudi - INSURANCE VISIT - No reques_6efa00</name>
+   <tag></tag>
+   <elementGuidId>b2089e76-b90e-42d2-a206-2b09b337dc06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>79575966-b779-431e-8d1e-3eec979f50b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>930</value>
+      <webElementGuid>449e64e6-1891-467b-b95d-a1317dfcd257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>450</value>
+      <webElementGuid>6d7269de-d7fb-4bbe-b424-38adfaa08687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non-Saudi - INSURANCE VISIT - No request - OP 102 (79.7%)Non-Saudi - CASH VISIT - No request - OP 25 (19.5%)Saudi - INSURANCE VISIT - No request - OP 1 (0.8%)102(79.7%)25(19.5%)1(0.8%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPSaudi - INSURANCE VISIT - No request - OP</value>
+      <webElementGuid>0c879c9b-7420-492b-a896-f5fb28df1b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pieChart&quot;)/svg[1]</value>
+      <webElementGuid>8f67e59e-8207-42b9-97a6-43e0aa256e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ui-button'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>19231223-32e6-4585-8473-601435026cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3e161395-df77-4d41-80dc-d01596bb8f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Non-Saudi - INSURANCE VISIT - No request - OP 102 (79.7%)Non-Saudi - CASH VISIT - No request - OP 25 (19.5%)Saudi - INSURANCE VISIT - No request - OP 1 (0.8%)102(79.7%)25(19.5%)1(0.8%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPSaudi - INSURANCE VISIT - No request - OP' or . = 'Non-Saudi - INSURANCE VISIT - No request - OP 102 (79.7%)Non-Saudi - CASH VISIT - No request - OP 25 (19.5%)Saudi - INSURANCE VISIT - No request - OP 1 (0.8%)102(79.7%)25(19.5%)1(0.8%)Visit ReportNon-Saudi - INSURANCE VISIT - No request - OPNon-Saudi - CASH VISIT - No request - OPSaudi - INSURANCE VISIT - No request - OP')]</value>
+      <webElementGuid>bf4892a2-a6dc-41f0-a7aa-bbc43b04291a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
