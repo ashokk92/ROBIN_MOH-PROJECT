@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debit Card_pbmClaimDtlDlg_modal</name>
+   <tag></tag>
+   <elementGuidId>d757e0d4-9d62-4b61-9ec3-e4229a8fed6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pbmClaimDtlDlg_modal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pbmClaimDtlDlg_modal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>beea0df3-66ac-473d-9c23-a912e9b1c8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pbmClaimDtlDlg_modal</value>
+      <webElementGuid>3df08195-a063-4c32-9502-0d637f7c6ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-overlay ui-dialog-mask</value>
+      <webElementGuid>d19a1d94-9358-4096-859d-32b98d95d822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pbmClaimDtlDlg_modal&quot;)</value>
+      <webElementGuid>d6ced65a-96db-4a15-8c5b-1986cd41cfbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pbmClaimDtlDlg_modal']</value>
+      <webElementGuid>303dd98d-d863-4fdd-8327-19e96a6027b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[66]</value>
+      <webElementGuid>3b1d50c4-a7c7-4dbd-96d9-ce0df6daf62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pbmClaimDtlDlg_modal']</value>
+      <webElementGuid>836d6576-5193-4f6e-8983-960c92a3a2b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

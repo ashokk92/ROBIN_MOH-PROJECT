@@ -6,12 +6,12 @@
    <elementGuidId>a2fb8f40-7c8e-41f8-9869-54bbd0f4b3d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='growl_container']/div/div/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>457c6a8d-9f94-443b-8429-bba57f338ecf</webElementGuid>
+      <webElementGuid>49fab107-297d-4652-a8cd-e076dab25f09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Receipt generated Successfully</value>
-      <webElementGuid>d45ed497-3d39-45bf-a8bd-6730de7da8c5</webElementGuid>
+      <webElementGuid>54c090fa-bbd1-4e1f-b999-63c781010cfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;growl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-message&quot;]/p[1]</value>
-      <webElementGuid>13214601-a808-482b-ace2-faf94b58fd74</webElementGuid>
+      <webElementGuid>1eb637c6-ab79-4719-b509-9ff3eccd39fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='growl_container']/div/div/div[2]/p</value>
-      <webElementGuid>bf3b12ff-8946-4527-95e1-7d7ffb6f3d3f</webElementGuid>
+      <webElementGuid>eaf871eb-76dd-4f23-9589-39b93e91062f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt generated Successfully'])[2]/following::p[1]</value>
-      <webElementGuid>7e1f0e33-be99-45cc-9369-625dad470572</webElementGuid>
+      <webElementGuid>fd5ce308-ec5a-499e-905d-213260f93f07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[2]/following::p[1]</value>
-      <webElementGuid>2f5ce7b6-9e2f-4510-9fcf-116ad6c50043</webElementGuid>
+      <webElementGuid>b1bec5df-63fc-4da7-9f52-6b511bcd3dd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
-      <webElementGuid>bec58bd1-1dbc-4915-8b1d-336cfda73acb</webElementGuid>
+      <webElementGuid>23be6a96-17e1-4f40-be20-00395a4ba664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
-      <webElementGuid>b3ed70a1-9b11-433a-9223-5a098563a61e</webElementGuid>
+      <webElementGuid>2f4cf027-25b5-42af-a090-d8ad30eea338</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>8728c60a-d446-4057-a769-2a8428cf3e9b</webElementGuid>
+      <webElementGuid>ab1417ba-017f-43ee-9022-68be32a0b4c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Receipt generated Successfully' or . = 'Receipt generated Successfully')]</value>
-      <webElementGuid>18cf26ce-ab2c-47ae-94fa-259b0fa66fbc</webElementGuid>
+      <webElementGuid>1297ecc1-5a96-4a51-9032-2a4d4d7653d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

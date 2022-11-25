@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Companies Profiles</name>
+   <tag></tag>
+   <elementGuidId>6203a40c-5366-496d-a0c2-6c33e6e430ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ui-widget-content.ui-menu-list.ui-corner-all.ui-helper-clearfix.ui-menu-child.ui-shadow > li.ui-widget.ui-menuitem.ui-corner-all.ui-menu-parent.ui-menuitem-active > ul.ui-widget-content.ui-menu-list.ui-corner-all.ui-helper-clearfix.ui-menu-child.ui-shadow > li.ui-menuitem.ui-widget.ui-corner-all.ui-menuitem-active > a.ui-menuitem-link.ui-corner-all.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[4]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9bdd5338-f7b9-4528-a37e-31e450767feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d32220d0-a948-4236-91b0-534d4b30c2fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ui-corner-all ui-state-hover</value>
+      <webElementGuid>76969bce-8ff3-4e99-a26c-97279f7f32e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ROBIN/faces/Pages/Pricing/accumedCompaniesProfiles/index.xhtml</value>
+      <webElementGuid>a3e5ebd1-29cf-4f0c-ab93-65a2ad9e86a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Companies Profiles</value>
+      <webElementGuid>d56409af-e9b4-4d7a-8eb3-30a0a8c6319f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>f81c77ae-0567-41d7-b531-60e06a9f87ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[4]/ul/li[6]/a</value>
+      <webElementGuid>49930ee0-71c8-483b-8110-31929803c6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Payers'])[1]/following::a[1]</value>
+      <webElementGuid>67b5e398-4cd9-43d4-87db-bc6472effd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Append Price'])[1]/following::a[2]</value>
+      <webElementGuid>454c7a2d-4243-4dd0-8cbc-d1a9abd3ecea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinicians'])[1]/preceding::a[1]</value>
+      <webElementGuid>e6613f13-951a-4629-8415-6593c6d418be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ROBIN/faces/Pages/Pricing/accumedCompaniesProfiles/index.xhtml')]</value>
+      <webElementGuid>27324bcb-885b-41b3-9833-19d46d9dba35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[6]/a</value>
+      <webElementGuid>017f07f8-4923-4ba3-9aa0-cfabfdf2c9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ROBIN/faces/Pages/Pricing/accumedCompaniesProfiles/index.xhtml' and (text() = ' Companies Profiles' or . = ' Companies Profiles')]</value>
+      <webElementGuid>e6153ee3-7446-4a7e-adc2-9782fb4f5fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

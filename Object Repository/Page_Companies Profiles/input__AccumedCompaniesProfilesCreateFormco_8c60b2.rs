@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Loading_loginFormpassword</name>
+   <name>input__AccumedCompaniesProfilesCreateFormco_8c60b2</name>
    <tag></tag>
-   <elementGuidId>1640db7e-4ae0-404f-82b1-65a8271b11de</elementGuidId>
+   <elementGuidId>f3cb20bd-7fcb-4370-af28-c9f9cfe10924</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='loginForm:password']</value>
+         <value>//input[@id='AccumedCompaniesProfilesCreateForm:companyName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bdbbb9b6-07e1-4022-90c1-59378622cd74</webElementGuid>
+      <webElementGuid>d9861911-39f0-47ce-b58b-8dbaeb54f7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>737e8fa3-1897-4568-87c7-b24192906f04</webElementGuid>
+      <value>AccumedCompaniesProfilesCreateForm:companyName</value>
+      <webElementGuid>739ca2ad-e528-46d5-8c6e-bd8f88c7dd4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>99b38b8c-2cb2-404c-bdc5-86692953c500</webElementGuid>
+      <value>AccumedCompaniesProfilesCreateForm:companyName</value>
+      <webElementGuid>641c8f95-9488-41ad-a663-64f58acbff45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>92b1da91-7dc1-4ffd-a866-f26059968aba</webElementGuid>
+      <value>text</value>
+      <webElementGuid>2bc6e6c0-ce25-4e91-9502-4d0ea070d7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>02f5cfe9-bc6d-4616-bf20-070b51eeefa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-password ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>47bbb127-f537-42ed-99be-c1fd2a64158c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>fb22da9b-7676-48f4-85c9-ffb2d578a736</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c34b458a-7828-43e9-bd14-6ba5f1fce150</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onblur</name>
-      <type>Main</type>
-      <value> loadFacilites();  </value>
-      <webElementGuid>27fbd9d3-e1f4-4ff0-820b-ff71df80c6dc</webElementGuid>
+      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-focus</value>
+      <webElementGuid>2df990b5-e3ed-4c90-8abd-0c9d8ef335b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>0d436c0e-c0fc-4550-be39-07c0d858ea76</webElementGuid>
+      <webElementGuid>f8a5ae9e-720e-443f-b886-fe533ea64b80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5e42a958-c656-4f9b-9b02-f55a6657d4d1</webElementGuid>
+      <webElementGuid>1c4ab1e3-643a-4d85-8d38-1fb50a1d2802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,46 +86,46 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9538b6ec-e5b0-4a5d-bbb3-78ddf41c762e</webElementGuid>
+      <webElementGuid>c96e067c-7a3c-4c81-8b01-8d66e8e1b191</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:password&quot;)</value>
-      <webElementGuid>b29e8b8f-75c2-4e90-9a64-3dd8e2490a8c</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesCreateForm:companyName&quot;)</value>
+      <webElementGuid>4adf519d-6c54-41dd-b5be-512c63b88b93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginForm:password']</value>
-      <webElementGuid>3087c4cd-81c3-47ff-a889-3c20e2d3f270</webElementGuid>
+      <value>//input[@id='AccumedCompaniesProfilesCreateForm:companyName']</value>
+      <webElementGuid>9a2adce6-462f-47c4-b626-9b31b5d729ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/input[3]</value>
-      <webElementGuid>189edf1a-c2c0-45fb-83f1-24bdb8eaf442</webElementGuid>
+      <value>//table[@id='AccumedCompaniesProfilesCreateForm:j_idt176']/tbody/tr/td[2]/input</value>
+      <webElementGuid>9ca8716e-0266-45e3-89e3-73de375760b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[3]</value>
-      <webElementGuid>2e8d4723-7265-43a1-a9e2-7cceae5f430d</webElementGuid>
+      <value>//td[2]/input</value>
+      <webElementGuid>4a7e3d89-2249-42fd-bb91-e711fcd920bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'loginForm:password' and @name = 'loginForm:password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>2aea86f9-ab23-40e6-ae30-a6280919c3a1</webElementGuid>
+      <value>//input[@id = 'AccumedCompaniesProfilesCreateForm:companyName' and @name = 'AccumedCompaniesProfilesCreateForm:companyName' and @type = 'text']</value>
+      <webElementGuid>04f2920a-3dbf-4087-860f-c083381bc348</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

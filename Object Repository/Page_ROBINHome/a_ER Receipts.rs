@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ER Receipts</name>
+   <tag></tag>
+   <elementGuidId>e041a3c2-0a37-438f-af1f-eb429a05d222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ui-widget-content.ui-menu-list.ui-corner-all.ui-helper-clearfix.ui-menu-child.ui-shadow > li.ui-widget.ui-menuitem.ui-corner-all.ui-menu-parent.ui-menuitem-active > ul.ui-widget-content.ui-menu-list.ui-corner-all.ui-helper-clearfix.ui-menu-child.ui-shadow > li.ui-menuitem.ui-widget.ui-corner-all.ui-menuitem-active > a.ui-menuitem-link.ui-corner-all.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/ul/li/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a62e5f9e-f8f5-4188-88fc-d985319d4b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>dee316a5-9e13-42b8-96a6-6f523c775566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ui-corner-all ui-state-hover</value>
+      <webElementGuid>cb2ffb4f-2728-49e6-8c4c-a92c207ed9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ROBIN/faces/Pages/ERCash/Dashboard.xhtml</value>
+      <webElementGuid>2f8dfd5a-0f3c-4516-a429-166ca543dec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ER Receipts</value>
+      <webElementGuid>48a56474-6f7a-4c50-a7fa-5216dbd152ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>3949d6ec-d4c5-47ac-bf76-758b091ea6bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>9114be0e-db0b-40d7-a304-08fed8273a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Receipts'])[1]/following::a[1]</value>
+      <webElementGuid>8d327f2b-83fb-4d54-8ae3-9bd691f35d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
+      <webElementGuid>85e45309-0c52-4bcb-9f48-4ebf52a76dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pharmacy'])[1]/preceding::a[1]</value>
+      <webElementGuid>91a6bd1a-3557-423a-a36b-96ec8c28b2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ROBIN/faces/Pages/ERCash/Dashboard.xhtml')]</value>
+      <webElementGuid>beb4ceaa-0e59-4c50-8e83-4fc72054b937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>03e401d2-eb55-4bd9-ab08-d562f4c54794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ROBIN/faces/Pages/ERCash/Dashboard.xhtml' and (text() = 'ER Receipts' or . = 'ER Receipts')]</value>
+      <webElementGuid>43aa8926-40ad-482e-906d-7a825cb132a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

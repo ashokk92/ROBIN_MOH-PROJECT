@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='collectionForm:j_idt186:0:printAdvanceReceiptRefund']/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='advance amount'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_AlertReceipt generated SuccessfullyOK</name>
+   <name>div_ConfirmationAre you sureYesNo</name>
    <tag></tag>
-   <elementGuidId>c7733712-d64c-41f4-80f6-62b5b846a17c</elementGuidId>
+   <elementGuidId>834d7bc0-8277-4803-a21e-e2c36691d1c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#j_idt16</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='j_idt16']</value>
+         <value>//div[@id='AccumedCompaniesProfilesListForm:j_idt173']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bff727a1-c186-40d9-be79-f75e2a19d7b2</webElementGuid>
+      <webElementGuid>5f7f4522-ae0b-45e9-8f14-1cc4aaae0604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>j_idt16</value>
-      <webElementGuid>29feab05-5b3e-4404-9c84-bcdb410e13d4</webElementGuid>
+      <value>AccumedCompaniesProfilesListForm:j_idt173</value>
+      <webElementGuid>96e32e27-4a89-410d-9436-2c5472407919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container ui-draggable ui-resizable</value>
-      <webElementGuid>4c0f8b23-e21e-40d4-8e74-91caf000bc1c</webElementGuid>
+      <value>ui-confirm-dialog ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container</value>
+      <webElementGuid>6c9770fa-f812-49a3-a503-d5c6577896de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>role</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>9d6b34f7-5ed1-42ca-8d6f-52496d813059</webElementGuid>
+      <webElementGuid>427cabec-2569-4c0f-b660-11bd79440461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>j_idt16_title</value>
-      <webElementGuid>09bbc92e-8119-4cab-a4d0-b2bb2b43b24e</webElementGuid>
+      <value>AccumedCompaniesProfilesListForm:j_idt173_title</value>
+      <webElementGuid>dd67f4ec-4b51-4921-9559-c62c9c7066aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>28396eac-22fa-4db2-bb65-bff3506e02eb</webElementGuid>
+      <webElementGuid>e78a882b-15f3-4f3c-aa7d-971e98abf6f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,138 +70,62 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>c50f09ee-d646-4373-bc2e-736657a5d83d</webElementGuid>
+      <webElementGuid>4f49f035-e830-41e5-a738-d2261a448753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Alert
-
-
-
-
-
-
-
-
-
-Receipt generated Successfully
-
-
-
-
-
-
-
-
-
-
-
-OK
-
-
-
-
-
-</value>
-      <webElementGuid>e2be1ea2-3206-4ad4-9af3-53ba79d9266f</webElementGuid>
+      <value>ConfirmationAre you sure?YesNo</value>
+      <webElementGuid>0b567db0-b5f8-45d8-a338-2338c2de1975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;j_idt16&quot;)</value>
-      <webElementGuid>5a7f2d3b-d75b-415c-aee4-b01b4fd4b32b</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesListForm:j_idt173&quot;)</value>
+      <webElementGuid>82a4a050-7c8e-48f6-84ec-e549e0c21a28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='j_idt16']</value>
-      <webElementGuid>d1208d41-7e19-4946-935c-86c9b7af90ec</webElementGuid>
+      <value>//div[@id='AccumedCompaniesProfilesListForm:j_idt173']</value>
+      <webElementGuid>a2d66538-1f55-4b6b-91e2-b2ef0d11e0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERATING RECEIPT IN PROGRESS...'])[1]/following::div[1]</value>
-      <webElementGuid>75914395-0def-4f82-be81-0264b5e64985</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::div[4]</value>
+      <webElementGuid>5d458670-5547-4a51-a3aa-51fae9209af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows Per Page'])[1]/following::div[5]</value>
+      <webElementGuid>3f124b71-0f19-4ed0-82ba-55e3955ae64a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]</value>
-      <webElementGuid>182b437e-f7c8-4941-9343-8bf3803d9695</webElementGuid>
+      <value>//div[8]</value>
+      <webElementGuid>561a110c-cd35-46eb-8d5a-e305392cc904</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'j_idt16' and (text() = 'Alert
-
-
-
-
-
-
-
-
-
-Receipt generated Successfully
-
-
-
-
-
-
-
-
-
-
-
-OK
-
-
-
-
-
-' or . = 'Alert
-
-
-
-
-
-
-
-
-
-Receipt generated Successfully
-
-
-
-
-
-
-
-
-
-
-
-OK
-
-
-
-
-
-')]</value>
-      <webElementGuid>b474d785-4802-476f-965a-7eac1ab45110</webElementGuid>
+      <value>//div[@id = 'AccumedCompaniesProfilesListForm:j_idt173' and (text() = 'ConfirmationAre you sure?YesNo' or . = 'ConfirmationAre you sure?YesNo')]</value>
+      <webElementGuid>0a1f7dab-e261-4aa3-91e2-279bc9ee3855</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

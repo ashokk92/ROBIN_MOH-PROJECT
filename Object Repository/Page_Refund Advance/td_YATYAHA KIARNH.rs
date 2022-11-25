@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='collectionForm:patient_panel']/table/tbody/tr/td[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-00009'])[3]/preceding::td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

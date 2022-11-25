@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Preview</name>
+   <name>span_Delete</name>
    <tag></tag>
-   <elementGuidId>3c755bce-e8a4-4165-9e3c-7bb368c2bf4f</elementGuidId>
+   <elementGuidId>1a1ab458-e767-494b-8540-77cb2a78babd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
+         <value>//button[@id='AccumedCompaniesProfilesListForm:datalist:0:deleteButton']/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d13decb2-f8ea-4f9d-9e10-2f81c097d871</webElementGuid>
+      <webElementGuid>fe2e1a46-45fb-4227-ba6b-49a45bb5c37e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,86 +30,78 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>eb0eedca-1363-42ef-a47e-9261c86b4c48</webElementGuid>
+      <webElementGuid>dee79e04-c603-4164-9c8e-23d9e0a56cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Preview</value>
-      <webElementGuid>9aaae485-00d7-4070-8331-68589ca9f501</webElementGuid>
+      <value>Delete</value>
+      <webElementGuid>d26550ef-46e9-492c-8d76-07a7066745b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;claimBillsForm:claimBillsTable:0:viewInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>b7c24d8c-8c42-4153-af3d-647a69417e7b</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesListForm:datalist:0:deleteButton&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>1ab01168-a858-4d95-849f-32a3d5d2a7dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
-      <webElementGuid>d33190b6-66b3-4fce-bbec-486c59d1a079</webElementGuid>
+      <value>//button[@id='AccumedCompaniesProfilesListForm:datalist:0:deleteButton']/span[2]</value>
+      <webElementGuid>93054068-47be-4f80-982d-6696ead9747f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[5]/following::span[2]</value>
-      <webElementGuid>06c543af-7988-46ea-800a-20fd88bc3749</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCUMED'])[1]/following::span[2]</value>
+      <webElementGuid>0cd2a12d-bf28-4705-b128-d68f2ed68548</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CR-112022-2712'])[2]/following::span[2]</value>
-      <webElementGuid>491a819a-23b4-4291-b10d-e1a7d7a1c0a9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
+      <webElementGuid>2bb8257c-a134-4d8f-968b-a739db8f759b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
-      <webElementGuid>978693da-fe57-4b5d-ac2f-1588102d7895</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::span[2]</value>
+      <webElementGuid>3c42c0ab-b095-4323-8155-4e996d7453fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CA-112022-2712'])[2]/preceding::span[3]</value>
-      <webElementGuid>9fdbd317-487f-4799-bbc5-9165f87e29e7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
-      <webElementGuid>869978c7-c6fc-43e0-8fe8-1bd68d682a2e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/preceding::span[4]</value>
+      <webElementGuid>53232a8b-6be8-414c-a5ea-19cbe2f17182</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/button/span[2]</value>
-      <webElementGuid>2fa769ce-cbed-4c46-ba34-cb7c060ff842</webElementGuid>
+      <value>//td[3]/button/span[2]</value>
+      <webElementGuid>73d75e48-82bd-4f98-be43-11c0d4390384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Preview' or . = 'Preview')]</value>
-      <webElementGuid>c559d721-43dc-4269-bdee-b6dcccdbc5f6</webElementGuid>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>6b5edb62-c1cf-4fd4-82fa-4c6e613d4d05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

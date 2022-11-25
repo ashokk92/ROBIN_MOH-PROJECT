@@ -6,12 +6,12 @@
    <elementGuidId>6684e8ea-1772-460f-8245-2d416d9e27e9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='loginForm:facilityId_1']/td/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='loginForm:facilityId_1']/td/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c9990b4e-98be-45ac-9468-82b9ba79b453</webElementGuid>
+      <webElementGuid>643dfd4c-1200-4b76-9d90-9d7eb27f2a16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>King Salman Abdulaziz Hospital -Riyadh</value>
-      <webElementGuid>50e4ac53-8d68-47b2-921c-c3a6aa8810c0</webElementGuid>
+      <webElementGuid>840ab357-7033-4d40-a7b7-bdd6793fe207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm:facilityId_1&quot;)/td[1]/span[1]</value>
-      <webElementGuid>2a8ee343-8100-4aeb-bd94-2ca6b2ff6a93</webElementGuid>
+      <webElementGuid>afdbd608-e991-4df2-b7e0-3e09a120c74d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='loginForm:facilityId_1']/td/span</value>
-      <webElementGuid>215f09bb-1b2e-4851-94d0-ed1edebab5fa</webElementGuid>
+      <webElementGuid>5346dea0-ccdc-40f4-b6e5-88b270aac26c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[3]/following::span[1]</value>
-      <webElementGuid>b96614ec-ef80-4337-8934-1df37d3c9656</webElementGuid>
+      <webElementGuid>3034765a-7bbd-4f29-bb20-3a6cf701dcb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'loginForm:facilityId_1', '&quot;', ')/td[1]/span[1]')])[1]/following::span[2]</value>
-      <webElementGuid>4158686f-a95e-402f-8457-f1ad9dd7fa5f</webElementGuid>
+      <webElementGuid>55bda234-440c-4687-bd7e-d952949b71ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Jubail General Hospital - Jubail'])[2]/preceding::span[1]</value>
-      <webElementGuid>3751fce5-08d4-4ae5-a516-70aeb1d9cbfa</webElementGuid>
+      <webElementGuid>2abbc09f-2c27-495d-a885-e1a55946fc24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ohod General Hospital -Medinah'])[2]/preceding::span[2]</value>
-      <webElementGuid>16190f6e-9647-4009-af43-e8cdd7e4acb4</webElementGuid>
+      <webElementGuid>16ac7768-cb14-429d-9e44-e7f1fb85a686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/table/tbody/tr[2]/td/span</value>
-      <webElementGuid>6bea768c-5b6e-4ef6-8ee7-55005b666bc0</webElementGuid>
+      <webElementGuid>71849b06-7c3d-4a9b-85d0-9eaec24220e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'King Salman Abdulaziz Hospital -Riyadh' or . = 'King Salman Abdulaziz Hospital -Riyadh')]</value>
-      <webElementGuid>eeed9d6f-0123-47d6-9e5d-450bae6823fa</webElementGuid>
+      <webElementGuid>92fd0954-30f2-44ce-9ff5-130c02355e45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Report_ui-icon ui-icon-closethick</name>
+   <name>span_Edit profile_ui-icon ui-icon-closethick</name>
    <tag></tag>
-   <elementGuidId>3f60fad3-4a00-4340-8d70-c06a8bfff0e5</elementGuidId>
+   <elementGuidId>5fec419b-bc0c-4848-969e-b546892c65be</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='previewReport']/div/a/span</value>
+         <value>//div[@id='AccumedCompaniesProfilesEditDlg']/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0951a988-43bd-4c84-9da4-df4dd37ef85f</webElementGuid>
+      <webElementGuid>6c135fc3-2ef8-4f42-8eb1-347cf6ca7149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,30 +30,30 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-icon ui-icon-closethick</value>
-      <webElementGuid>e456dfd7-ec5e-4f92-ae1b-346dad6ba4be</webElementGuid>
+      <webElementGuid>bd58739a-7477-4069-ba68-afdebcfa69ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;previewReport&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]/a[@class=&quot;ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-icon ui-icon-closethick&quot;]</value>
-      <webElementGuid>36e0f926-5938-4793-8251-8e102527d8b6</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesEditDlg&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]/a[@class=&quot;ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-icon ui-icon-closethick&quot;]</value>
+      <webElementGuid>6cb86f24-1efa-4252-b0c3-f018dd4994ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='previewReport']/div/a/span</value>
-      <webElementGuid>62822491-2ae4-4a48-a5f7-fcb5ea15842b</webElementGuid>
+      <value>//div[@id='AccumedCompaniesProfilesEditDlg']/div/a/span</value>
+      <webElementGuid>4fb69c24-e468-4cd3-a80e-e12dc8299751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[20]/div/a/span</value>
-      <webElementGuid>1c41a8b2-cb80-4434-b37a-2ba92944e98d</webElementGuid>
+      <value>//div[11]/div/a/span</value>
+      <webElementGuid>9199a21d-d3b0-49e9-8988-e8eac1fb9cbf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>057a6502-53d2-42de-ba74-caa1402e144b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='alerForm:j_idt22']/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.ui-button-text.ui-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='alerForm:j_idt22']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fa3a7f71-9894-4ea6-ba27-c29f1de362e3</webElementGuid>
+      <webElementGuid>f8c6d831-125a-4766-a0d3-1b0bf952ef51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>95bb69db-e5bf-4861-940f-560ff67355cf</webElementGuid>
+      <webElementGuid>7fe18f47-792e-47e9-b63a-6ffc641ee0a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>e53d8af7-039d-444d-8d73-c2be04879006</webElementGuid>
+      <webElementGuid>91722f4c-87ea-44b3-a5f1-f74b2b976586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;alerForm:j_idt22&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>e0e31f45-9ab6-48ab-b379-b5661cc99513</webElementGuid>
+      <webElementGuid>c0abc389-b6c7-424a-8351-00fd7b3b6d24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='alerForm:j_idt22']/span</value>
-      <webElementGuid>14d71dba-ab24-4455-8d9c-b815c6f4ed72</webElementGuid>
+      <webElementGuid>730698e7-51ad-46ed-b762-62fb798875f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt generated Successfully'])[1]/following::span[1]</value>
-      <webElementGuid>9b43ded8-ca64-47ff-9ad2-8567ffcb0fa1</webElementGuid>
+      <webElementGuid>1a878dde-6dc2-4524-85e1-653c1bcce3c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert'])[1]/following::span[4]</value>
-      <webElementGuid>78c18847-a33d-4597-ade3-4c7c7fc8d462</webElementGuid>
+      <webElementGuid>b8cd4bcb-a785-4024-b609-7c5073dd02d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[2]</value>
-      <webElementGuid>b5efef30-2919-4354-8ff4-07cca7ccbf62</webElementGuid>
+      <webElementGuid>171d9f92-6753-45f7-a6ef-ecdc9a988039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Journey Management'])[1]/preceding::span[3]</value>
-      <webElementGuid>eef5ecfb-0884-4539-9210-312851ec5e3d</webElementGuid>
+      <webElementGuid>1002763a-8c5b-485b-a24c-6a592d9b9a2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>9fa794f1-19de-470c-b178-8b608ab513b5</webElementGuid>
+      <webElementGuid>1d310bf3-099d-4988-b2e0-192640466afa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>ad0733ed-cda0-4e43-b81c-0d649b379012</webElementGuid>
+      <webElementGuid>87f4b3b8-53e9-48b1-8288-7fe834dba16e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>66c7aa46-2eac-45f4-b3bd-b1dbc867e42f</webElementGuid>
+      <webElementGuid>3866125b-8bb8-4d44-8fb5-7a36d3fadf32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

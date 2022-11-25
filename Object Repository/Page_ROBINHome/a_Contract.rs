@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Services</name>
+   <name>a_Contract</name>
    <tag></tag>
-   <elementGuidId>9885c734-93f4-468f-b456-d29bea18008b</elementGuidId>
+   <elementGuidId>4450ca09-de1e-4f98-9d91-61fa81465675</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/ul/li/a</value>
+         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f0eab5cb-4c8c-4e86-8b77-0f8453b47f92</webElementGuid>
+      <webElementGuid>118c8d16-507f-474a-b020-7cea4e4be0cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>e685a5af-002d-480d-b7d7-d9d623f195d4</webElementGuid>
+      <webElementGuid>c8c37ab5-1c77-402a-b971-5dc2febaba93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>5cc3fa82-c90c-4135-9e9c-ade73f929bfd</webElementGuid>
+      <webElementGuid>38068fa5-75bd-4ace-8401-0e13291090c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9f4624be-d618-42c8-83fe-b39f93315d20</webElementGuid>
+      <webElementGuid>27607c13-e7a7-4988-a522-0fdceb9cc482</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Services</value>
-      <webElementGuid>176da6b6-c400-4f6b-8666-bbd965ee84cb</webElementGuid>
+      <value> Contract</value>
+      <webElementGuid>8f2990c4-916f-4d72-abc9-9d128d03f486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,62 +62,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/ul[@class=&quot;ui-widget-content ui-menu-list ui-corner-all ui-helper-clearfix ui-menu-child ui-shadow&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>40fe72c2-b9cd-4988-8ba7-55899098b5ce</webElementGuid>
+      <webElementGuid>922451da-9248-4b15-a203-d1a3c860f445</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/ul/li/a</value>
-      <webElementGuid>e511aa7a-f336-42d8-a0a6-54f155d2a79b</webElementGuid>
+      <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[6]/ul/li[4]/a</value>
+      <webElementGuid>4804bb5e-efd6-4587-afb6-996325a0a15d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Billing'])[1]/following::a[1]</value>
-      <webElementGuid>bc73b293-121a-48b6-ad77-c9ded3bcf003</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::a[1]</value>
+      <webElementGuid>b1f892ff-9ec7-4f72-904d-450dda71d854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Patient Authorizations'])[1]/following::a[2]</value>
-      <webElementGuid>d1f4f161-1974-4bf8-83ef-8949d3401dac</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[2]</value>
+      <webElementGuid>fa7315a7-a1fd-464f-a9aa-d4b7bbf3804b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OP Receipts'])[1]/preceding::a[1]</value>
-      <webElementGuid>5e5ede2f-18be-4f22-99ec-3f2223526c37</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload prices'])[1]/preceding::a[1]</value>
+      <webElementGuid>6fa17aa2-b923-47e1-ad85-1675b827fb0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>803fa30c-cd93-48c2-aabb-bb01166b003d</webElementGuid>
+      <value>(//a[contains(@href, '#')])[9]</value>
+      <webElementGuid>89f8361d-078a-44eb-915b-7f27c06bca73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li/a</value>
-      <webElementGuid>4629dc50-260d-4936-bb9d-824e707c256b</webElementGuid>
+      <value>//li[6]/ul/li[4]/a</value>
+      <webElementGuid>bea7c37a-4687-4622-8e60-b71d60ab0ebc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and (text() = 'Services' or . = 'Services')]</value>
-      <webElementGuid>a930ea5d-7d20-4231-8276-7789daa342cc</webElementGuid>
+      <value>//a[@href = '#' and (text() = ' Contract' or . = ' Contract')]</value>
+      <webElementGuid>9b1150f8-7875-4cd1-9e7f-75f2acf750ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

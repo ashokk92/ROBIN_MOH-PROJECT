@@ -6,12 +6,12 @@
    <elementGuidId>59406da8-b4b6-4561-bd23-4d37c5c9b04b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ui-menuitem-link.ui-submenu-link.ui-corner-all.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>99ea9410-d6d3-4624-8c9b-0a356b20d837</webElementGuid>
+      <webElementGuid>a81d6ebb-a733-46cf-92a8-62750d886582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>dc4860b4-a5fb-4473-8027-f3e9e6f50fd4</webElementGuid>
+      <webElementGuid>cdbfcedd-2d85-4ad1-9835-bf4a0fbf730e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover</value>
-      <webElementGuid>5037502a-e591-415d-ab42-b1ffc340a807</webElementGuid>
+      <webElementGuid>5518218d-52d8-433a-a4ec-3c678be20934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>2eda3854-db51-47cb-9dfc-175f1f548f03</webElementGuid>
+      <webElementGuid>fae77d19-f878-4785-9d2a-7c9a8e6f2696</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OP Billing</value>
-      <webElementGuid>82160129-4d51-45f6-8598-57da84887074</webElementGuid>
+      <webElementGuid>14c5b51b-26fc-44f7-886c-883749a79ec9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;j_idt11:j_idt25:menubar&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-widget ui-menuitem ui-corner-all ui-menu-parent ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-submenu-link ui-corner-all ui-state-hover&quot;]</value>
-      <webElementGuid>a01adf3e-9837-474a-adc0-2daa5b75828f</webElementGuid>
+      <webElementGuid>fdd045eb-53ba-4e4d-84bc-f67c1448c844</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='j_idt11:j_idt25:menubar']/ul/li[3]/a</value>
-      <webElementGuid>104fbe02-0c2f-45a8-9d44-e78cf6dee472</webElementGuid>
+      <webElementGuid>210ed94e-15ea-4d40-be7c-43d6e78976ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='In Patient Authorizations'])[1]/following::a[1]</value>
-      <webElementGuid>079c3d99-e650-433a-8801-7fac3ba60160</webElementGuid>
+      <webElementGuid>7219eae6-5a87-4b10-b6c7-ec9b8536dc9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Out Patient Authorizations'])[1]/following::a[2]</value>
-      <webElementGuid>212793ad-ae4e-4b93-9859-79f2ac602197</webElementGuid>
+      <webElementGuid>6f284bff-6f67-4a96-987e-243e8792eb49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::a[1]</value>
-      <webElementGuid>aac76668-83a2-42ac-8742-0c078a4373c3</webElementGuid>
+      <webElementGuid>1bddaa82-602e-423e-b4ff-716438194591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[2]</value>
-      <webElementGuid>f6b019e3-7bf2-47a1-b3cc-e416bb3f174c</webElementGuid>
+      <webElementGuid>7247afcc-3a18-436d-be8a-3be103019acf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>125e6b7f-d09f-4ca4-a892-e78dee24cdb2</webElementGuid>
+      <webElementGuid>46bf4798-23f5-4f28-a440-8503ab81fe7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'OP Billing' or . = 'OP Billing')]</value>
-      <webElementGuid>82d03d19-35b3-453b-b791-3a4c5da03ca7</webElementGuid>
+      <webElementGuid>d7304f9f-e7cd-4ae8-a493-206c3abcc94c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>a040bf51-8f10-40d7-9078-cacc2f0048f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='paymentForm:payment:0:Amount_input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='paymentForm:payment:0:Amount_input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>69a50aa3-01b4-41e8-94a1-40c6c05162ff</webElementGuid>
+      <webElementGuid>e5fbe260-d1b4-4b08-a41a-d1593d61f9fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>paymentForm:payment:0:Amount_input</value>
-      <webElementGuid>0d8dc166-3546-46af-ac9d-23d1a4766062</webElementGuid>
+      <webElementGuid>056f40a2-c8aa-4d35-a4db-e574ee47a747</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>paymentForm:payment:0:Amount_input</value>
-      <webElementGuid>8c0dbe4e-4328-4135-bf76-513c57ac9e4f</webElementGuid>
+      <webElementGuid>1b4ca884-a644-4bb4-821c-eb88534732ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3b739422-a5c2-4dfa-b070-cfffc03470bf</webElementGuid>
+      <webElementGuid>18fdfa9f-3edb-4d13-a2e0-1e82af2c00c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>size</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>0cf952a1-2e34-4d20-94c8-e1a196a1b855</webElementGuid>
+      <webElementGuid>36b29109-8942-45c8-b886-f63bd6ba1df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>PrimeFaces.ab({s:&quot;paymentForm:payment:0:Amount&quot;,e:&quot;keyup&quot;,p:&quot;paymentForm:payment:0:Amount&quot;,u:&quot;@none&quot;});</value>
-      <webElementGuid>85aa12e9-6281-401c-9875-cb81dcdadfa0</webElementGuid>
+      <webElementGuid>d3aa01e7-fc2d-4df3-85f2-807124cdc2d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>onfocus</name>
       <type>Main</type>
       <value>this.select();</value>
-      <webElementGuid>8162ecf3-3910-4889-b5cd-b5ececfb4b48</webElementGuid>
+      <webElementGuid>65be78fe-dd65-47e6-8698-63d7e7d55e2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
-      <webElementGuid>9812af6f-38ea-4e1c-b328-a6f3b468be8c</webElementGuid>
+      <webElementGuid>47df8a4f-250b-4a0b-8fbf-4bf5f1e4b2ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>19e6b919-a5b8-466c-acbd-7f3a149961ea</webElementGuid>
+      <webElementGuid>ed68e753-1787-46a3-abb6-e62350d50eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fdb7694e-a7ad-4e41-9d8b-15989ecfc5fa</webElementGuid>
+      <webElementGuid>97fd5975-9a17-4b59-a281-bde2765cac0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5b433173-1d10-40a9-932d-10796722d6e2</webElementGuid>
+      <webElementGuid>40a97903-edd9-4ea9-bc6a-f3b64d0b5746</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;paymentForm:payment:0:Amount_input&quot;)</value>
-      <webElementGuid>55e940e0-d490-4206-a0f0-e4cff58e928f</webElementGuid>
+      <webElementGuid>e69150bc-5cfb-4ad4-925a-67792ee9676e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='paymentForm:payment:0:Amount_input']</value>
-      <webElementGuid>9ad3e050-4339-42e0-b4f3-912c4c446e72</webElementGuid>
+      <webElementGuid>4f8bdfee-9a16-4969-b2da-99ab9c4842e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='paymentForm:payment:0:Amount']/input</value>
-      <webElementGuid>19e0882c-c57f-4612-9632-9a18541211d5</webElementGuid>
+      <webElementGuid>81e4e325-6710-4840-845a-9ef494e79d9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/span/input</value>
-      <webElementGuid>07793df8-58ea-4b2d-ac01-52a22d2dfeba</webElementGuid>
+      <webElementGuid>b76c3d0d-d39a-4e1a-9e8a-8df9bf98384c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'paymentForm:payment:0:Amount_input' and @name = 'paymentForm:payment:0:Amount_input' and @type = 'text']</value>
-      <webElementGuid>7f8df170-1b51-4908-92e7-b95ca581662c</webElementGuid>
+      <webElementGuid>60f73262-c347-4667-b9c9-3729c7cbd3cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Loading_loginFormpassword</name>
+   <name>input_Filter by msgType_LogIndexFormdatalis_6d48b3</name>
    <tag></tag>
-   <elementGuidId>1640db7e-4ae0-404f-82b1-65a8271b11de</elementGuidId>
+   <elementGuidId>5bf3263a-3a54-4ede-b78e-e7dd4f0c7cc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='loginForm:password']</value>
+         <value>//input[@id='LogIndexForm:datalist:j_idt167:filter']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bdbbb9b6-07e1-4022-90c1-59378622cd74</webElementGuid>
+      <webElementGuid>99f5b1f3-af82-40e3-981b-fe7f4997bcd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>737e8fa3-1897-4568-87c7-b24192906f04</webElementGuid>
+      <value>LogIndexForm:datalist:j_idt167:filter</value>
+      <webElementGuid>44d58175-0196-4567-ae24-24e82694937d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:password</value>
-      <webElementGuid>99b38b8c-2cb2-404c-bdc5-86692953c500</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>92b1da91-7dc1-4ffd-a866-f26059968aba</webElementGuid>
+      <value>LogIndexForm:datalist:j_idt167:filter</value>
+      <webElementGuid>290df9fc-a498-4df4-831a-9c00de352e20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-password ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>47bbb127-f537-42ed-99be-c1fd2a64158c</webElementGuid>
+      <value>ui-column-filter ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
+      <webElementGuid>72d297bc-f83e-4944-b685-982716f9e49c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,23 +54,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fb22da9b-7676-48f4-85c9-ffb2d578a736</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c34b458a-7828-43e9-bd14-6ba5f1fce150</webElementGuid>
+      <webElementGuid>05dfdc8a-0f31-4841-83d2-bff2b7050f01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onblur</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value> loadFacilites();  </value>
-      <webElementGuid>27fbd9d3-e1f4-4ff0-820b-ff71df80c6dc</webElementGuid>
+      <value>LogIndexForm:datalist:j_idt167:filter_label</value>
+      <webElementGuid>e0eeb96d-b73b-497b-b45e-836f3c385247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>0d436c0e-c0fc-4550-be39-07c0d858ea76</webElementGuid>
+      <webElementGuid>25872680-3602-4cfd-964e-acae9cdd3280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5e42a958-c656-4f9b-9b02-f55a6657d4d1</webElementGuid>
+      <webElementGuid>fec42172-9466-4969-b695-cec5c4e2a581</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,46 +86,46 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9538b6ec-e5b0-4a5d-bbb3-78ddf41c762e</webElementGuid>
+      <webElementGuid>a6d4c718-5f3e-4826-a0c2-46fa9457e158</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:password&quot;)</value>
-      <webElementGuid>b29e8b8f-75c2-4e90-9a64-3dd8e2490a8c</webElementGuid>
+      <value>id(&quot;LogIndexForm:datalist:j_idt167:filter&quot;)</value>
+      <webElementGuid>d6454981-d804-4827-a666-347c8b1c9856</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginForm:password']</value>
-      <webElementGuid>3087c4cd-81c3-47ff-a889-3c20e2d3f270</webElementGuid>
+      <value>//input[@id='LogIndexForm:datalist:j_idt167:filter']</value>
+      <webElementGuid>91b239d5-b2b2-44de-b25a-a0edd0a3c1a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/input[3]</value>
-      <webElementGuid>189edf1a-c2c0-45fb-83f1-24bdb8eaf442</webElementGuid>
+      <value>//th[@id='LogIndexForm:datalist:j_idt167']/input</value>
+      <webElementGuid>45e39485-8495-4f7e-ae3b-e660d4828214</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[3]</value>
-      <webElementGuid>2e8d4723-7265-43a1-a9e2-7cceae5f430d</webElementGuid>
+      <value>//th[5]/input</value>
+      <webElementGuid>02b7ef9c-62f4-4551-9652-82647d5e65bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'loginForm:password' and @name = 'loginForm:password' and @type = 'password' and @placeholder = 'password']</value>
-      <webElementGuid>2aea86f9-ab23-40e6-ae30-a6280919c3a1</webElementGuid>
+      <value>//input[@id = 'LogIndexForm:datalist:j_idt167:filter' and @name = 'LogIndexForm:datalist:j_idt167:filter']</value>
+      <webElementGuid>5ecc5bd2-8b8c-4ac2-a1cb-92f6b8460555</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

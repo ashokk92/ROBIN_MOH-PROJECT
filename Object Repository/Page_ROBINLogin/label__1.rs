@@ -6,12 +6,12 @@
    <elementGuidId>1c3da79a-31a5-464d-8460-df1925a3b7cb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@id='loginForm:facilityId_label']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='loginForm:facilityId_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>db9860ea-a208-4209-99ca-3af067efff9f</webElementGuid>
+      <webElementGuid>df43ed47-a113-41cc-9ed5-3fef0934a6c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>loginForm:facilityId_label</value>
-      <webElementGuid>6db22ce6-389f-4ad4-9928-6af15ec9802a</webElementGuid>
+      <webElementGuid>0f82e4c4-2673-4fca-a13d-59af9a76ab65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>297e5e5b-495c-4a6b-85a9-d19d4cd588ff</webElementGuid>
+      <webElementGuid>760c7718-b644-4718-b687-97486ff7f116</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>...</value>
-      <webElementGuid>7a4924ff-a03c-4316-90d9-8d8a7b1f5c8c</webElementGuid>
+      <webElementGuid>9c020fa6-5255-4717-99c8-e0f73a9a1fbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm:facilityId_label&quot;)</value>
-      <webElementGuid>37cdb67d-8a60-4897-8960-58327b6291c5</webElementGuid>
+      <webElementGuid>a1862084-7b92-455f-a3d7-862cd4e79acc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='loginForm:facilityId_label']</value>
-      <webElementGuid>98526d58-794b-402f-b5fc-e31afe1beccf</webElementGuid>
+      <webElementGuid>7d7cda82-875a-4c85-8ed1-994afb54bf90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='loginForm:facilityId']/label</value>
-      <webElementGuid>6069de95-1ebf-4988-873b-88266ff5040a</webElementGuid>
+      <webElementGuid>d8d348a0-9bd2-411d-8989-966c73e0a74b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::label[2]</value>
-      <webElementGuid>4e1fd1a9-9673-4efa-816e-ffb1854d3246</webElementGuid>
+      <webElementGuid>9e8ee50e-8c9e-458b-a2f1-ae14dd0932ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::label[1]</value>
-      <webElementGuid>1f6bd1a7-fd31-4f54-a0a8-401bae928e7a</webElementGuid>
+      <webElementGuid>ca92fd88-909f-4c6d-aae1-de442a9b251c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[2]</value>
-      <webElementGuid>bad65b4a-eb89-4496-879e-8d357f2cc0fa</webElementGuid>
+      <webElementGuid>fea00e18-9408-457d-bab2-f612dcd8f1f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/label</value>
-      <webElementGuid>749f523b-e230-4d3b-90aa-f6d34af9a486</webElementGuid>
+      <webElementGuid>0ed77c6b-d0c8-4032-baf7-b51403e34298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'loginForm:facilityId_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>15e23695-063f-4e57-9934-a65d5f206754</webElementGuid>
+      <webElementGuid>18e7fe97-555f-45f3-92f2-466100dbc1ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

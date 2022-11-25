@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Preview</name>
+   <name>span_Yes</name>
    <tag></tag>
-   <elementGuidId>3c755bce-e8a4-4165-9e3c-7bb368c2bf4f</elementGuidId>
+   <elementGuidId>7199f3c2-988a-40a7-a6ba-b00b3b68bf0d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
+         <value>//button[@id='AccumedCompaniesProfilesListForm:j_idt174']/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d13decb2-f8ea-4f9d-9e10-2f81c097d871</webElementGuid>
+      <webElementGuid>403f94b1-e621-4a47-826d-77073313b9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,86 +30,86 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>eb0eedca-1363-42ef-a47e-9261c86b4c48</webElementGuid>
+      <webElementGuid>2739d389-8762-4a2e-93be-99b6cd8386bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Preview</value>
-      <webElementGuid>9aaae485-00d7-4070-8331-68589ca9f501</webElementGuid>
+      <value>Yes</value>
+      <webElementGuid>74ad74db-0538-4626-b1b7-179295a23637</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;claimBillsForm:claimBillsTable:0:viewInvoice&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>b7c24d8c-8c42-4153-af3d-647a69417e7b</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesListForm:j_idt174&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>8b4192dc-0a2c-46f9-9b13-be40b42bc8d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='claimBillsForm:claimBillsTable:0:viewInvoice']/span[2]</value>
-      <webElementGuid>d33190b6-66b3-4fce-bbec-486c59d1a079</webElementGuid>
+      <value>//button[@id='AccumedCompaniesProfilesListForm:j_idt174']/span[2]</value>
+      <webElementGuid>d6b1411f-e3a1-4598-a91d-67940e90da84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[5]/following::span[2]</value>
-      <webElementGuid>06c543af-7988-46ea-800a-20fd88bc3749</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure?'])[1]/following::span[2]</value>
+      <webElementGuid>b05b7f0e-df41-4336-8e8c-fd531815816f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CR-112022-2712'])[2]/following::span[2]</value>
-      <webElementGuid>491a819a-23b4-4291-b10d-e1a7d7a1c0a9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::span[5]</value>
+      <webElementGuid>937998bf-3697-41ef-9a9e-08f9a8e75610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
-      <webElementGuid>978693da-fe57-4b5d-ac2f-1588102d7895</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[2]</value>
+      <webElementGuid>dce01bc2-1fb9-4823-8276-0cd29ac7428a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CA-112022-2712'])[2]/preceding::span[3]</value>
-      <webElementGuid>9fdbd317-487f-4799-bbc5-9165f87e29e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new profile'])[1]/preceding::span[3]</value>
+      <webElementGuid>becb31fd-b67d-4502-aa5e-391d83d2ed13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Preview']/parent::*</value>
-      <webElementGuid>869978c7-c6fc-43e0-8fe8-1bd68d682a2e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>80cabd55-8e78-4670-8f48-383d240e1d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/button/span[2]</value>
-      <webElementGuid>2fa769ce-cbed-4c46-ba34-cb7c060ff842</webElementGuid>
+      <value>//div[8]/div[3]/button/span[2]</value>
+      <webElementGuid>93ed3928-cc7c-4279-a53a-8fcd87ee536c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Preview' or . = 'Preview')]</value>
-      <webElementGuid>c559d721-43dc-4269-bdee-b6dcccdbc5f6</webElementGuid>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>a868a3c4-0945-4854-a8bf-8245b41e4247</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

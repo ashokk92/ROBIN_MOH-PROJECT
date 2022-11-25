@@ -6,12 +6,12 @@
    <elementGuidId>72559206-4596-45fc-ad32-afec39a4c1a3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='phWLForm:j_idt189']/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='phWLForm:j_idt189']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>14e8b799-5d93-4615-aeb1-8aafc8ae0f47</webElementGuid>
+      <webElementGuid>0f4f1b90-ae11-45e5-bd8e-89a8225bf247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>5456938a-b26a-472a-b65e-9b51ca6bce42</webElementGuid>
+      <webElementGuid>1dd0edc5-8831-4e8d-9f3c-8a80aa01f84a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>b37e56fb-c337-412e-bcfb-d0ef09ccc993</webElementGuid>
+      <webElementGuid>e8c6ae67-d418-4904-b9a5-cf963b6e7d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phWLForm:j_idt189&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>1c5e0929-0d14-4c26-9de8-13adb8c451f7</webElementGuid>
+      <webElementGuid>892f5eb1-be1d-4ee3-889b-62c9f172412b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='phWLForm:j_idt189']/span</value>
-      <webElementGuid>fc0cbf55-bf4f-4c31-9e10-ed14cf97e766</webElementGuid>
+      <webElementGuid>9ea380eb-71d1-4b7a-acc9-0a35910e218c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Paid &amp; Closed'])[1]/following::span[1]</value>
-      <webElementGuid>285836a1-a30a-4444-a477-c1d21fd43b0e</webElementGuid>
+      <webElementGuid>8e1018a5-7b4d-491e-8682-3aaca1199d44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Debt Bills'])[1]/following::span[2]</value>
-      <webElementGuid>7b45fe70-addb-48ae-9bac-53b9b345aae0</webElementGuid>
+      <webElementGuid>d63f941b-cfcf-4272-b9fe-39325aa7bbe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient'])[2]/preceding::span[1]</value>
-      <webElementGuid>7e68e134-40c0-49cc-8c86-f002a1aa0732</webElementGuid>
+      <webElementGuid>9107dbde-85cc-4621-8745-fe5c58e47136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MRN'])[1]/preceding::span[2]</value>
-      <webElementGuid>65856e43-ee4c-4220-8c1d-4f3fc52d38e1</webElementGuid>
+      <webElementGuid>fd4ff62e-aa80-467f-8761-54b20c5b15ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>7033503f-65e9-4453-a27c-932485c535bf</webElementGuid>
+      <webElementGuid>8399582f-7bc5-4c43-9847-897e4227aa17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form[2]/table/tbody/tr/td[2]/button/span</value>
-      <webElementGuid>6bacf8eb-aa38-461e-8677-e80c9f081d6c</webElementGuid>
+      <webElementGuid>f74e0c09-88a8-47e3-b17c-f63af52ae9ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>f9390322-1196-4abf-897e-d089e0a68095</webElementGuid>
+      <webElementGuid>8c520abd-87f6-4144-99c6-5ed1d11119f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

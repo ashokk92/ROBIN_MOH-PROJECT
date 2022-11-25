@@ -6,12 +6,12 @@
    <elementGuidId>814de813-0ef8-4b0b-bb2f-52bf86517fa7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='claimBillsDlg']/div/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ui-dialog-titlebar-icon.ui-dialog-titlebar-close.ui-corner-all.ui-state-hover.ui-state-focus > span.ui-icon.ui-icon-closethick</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='claimBillsDlg']/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>98da5686-1c0e-4e23-925a-f12a69d3925a</webElementGuid>
+      <webElementGuid>f9588bb5-75a5-40db-888a-541971e39db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-icon ui-icon-closethick</value>
-      <webElementGuid>d7eb47b3-9d57-48c9-9c90-b592ef27841d</webElementGuid>
+      <webElementGuid>fd36363c-57ae-4177-890f-a98404456533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;claimBillsDlg&quot;)/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ui-draggable-handle&quot;]/a[@class=&quot;ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-icon ui-icon-closethick&quot;]</value>
-      <webElementGuid>83355d10-c2e3-4210-af1e-9c06875b1807</webElementGuid>
+      <webElementGuid>3b6effec-e8f7-48df-b59f-8c7ac87c8ac5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='claimBillsDlg']/div/a/span</value>
-      <webElementGuid>85a7a996-28f7-46e1-80d1-502be019c0b7</webElementGuid>
+      <webElementGuid>93a44aaa-5ef1-4d5f-8efc-4524473e9798</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[19]/div/a/span</value>
-      <webElementGuid>f3fc0e45-c500-41a1-95b4-f25558eb217d</webElementGuid>
+      <webElementGuid>020be1df-cfa4-4bb7-a7ff-b48b53f6cef4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

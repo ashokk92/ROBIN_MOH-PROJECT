@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Close</name>
    <tag></tag>
-   <elementGuidId>4b1d382e-45b7-4b2c-956e-92e433713ea2</elementGuidId>
+   <elementGuidId>e74b4f77-da90-49ec-be9b-cc3e32f75f88</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='actionsButtonsForm:j_idt1675']/span[2]</value>
+         <value>//button[@id='AccumedCompaniesProfilesViewForm:j_idt192']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fa04532a-6a51-472b-b95e-31239f1e25bf</webElementGuid>
+      <webElementGuid>6dcb6992-5f9e-4f70-9532-1dfbd51ab721</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>65fab6d2-2989-4efc-bc64-88f0132bf977</webElementGuid>
+      <webElementGuid>1eea7dac-552c-40a3-be37-c8229bd2a774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,63 +38,55 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>5b34dd8c-af14-42ec-946c-222ac2e55753</webElementGuid>
+      <webElementGuid>02ca91b8-4791-4daf-ad4e-1724e62b6329</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;actionsButtonsForm:j_idt1675&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>1824875a-cb5a-4a0d-9803-b78988677f15</webElementGuid>
+      <value>id(&quot;AccumedCompaniesProfilesViewForm:j_idt192&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>2e6fa9ff-5838-41da-b109-e17206c223a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='actionsButtonsForm:j_idt1675']/span[2]</value>
-      <webElementGuid>3bf118cb-72f4-438c-977b-40eea368cfd9</webElementGuid>
+      <value>//button[@id='AccumedCompaniesProfilesViewForm:j_idt192']/span</value>
+      <webElementGuid>79db55d4-291a-441a-96c3-8ad4e9930fe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Receipt &amp; Invoice'])[1]/following::span[2]</value>
-      <webElementGuid>23dda6c6-c9ff-4c0f-9b16-11edc63e1580</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SANTA'])[1]/following::span[1]</value>
+      <webElementGuid>51b152c1-c01a-481a-8724-7bb33ca0ce99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Bill'])[1]/following::span[4]</value>
-      <webElementGuid>4c67f4f2-07a3-40d1-a887-4e3886527768</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Abbreviation'])[2]/following::span[2]</value>
+      <webElementGuid>0e3e3341-8948-4429-b5b6-7292ca0127bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Response Observations'])[1]/preceding::span[1]</value>
-      <webElementGuid>ac4f4188-6a7a-4135-895b-7788937eaf9c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1 of 1)'])[1]/preceding::span[3]</value>
-      <webElementGuid>5a659609-2212-433f-9a16-8396fe40d096</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>34450dc8-fe6a-4d76-b7d0-9833bb006da9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[3]/span[2]</value>
-      <webElementGuid>33543df0-8332-4f0c-a67d-477fe1f193e9</webElementGuid>
+      <value>//div[12]/div[2]/form/span/button/span</value>
+      <webElementGuid>ce5b9cb9-2b7b-46ef-91cb-8c63dfcf4498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>74125136-4a53-4bb5-b2b7-15d157c805e1</webElementGuid>
+      <webElementGuid>39937198-b606-4f63-bde1-18abe6d902f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
