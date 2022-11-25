@@ -23,9 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces/MainPages/SANTECHTURE/Login.xhtml')
 
-WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), 'administrator')
+WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), findTestData('data1').getValue(1, 1))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), '94L98adiAtmdH2Pcq36NMQ==')
+WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), findTestData('data1').getValue(2,1))
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/label_'))
 
