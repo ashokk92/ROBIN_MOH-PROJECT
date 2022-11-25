@@ -21,19 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces/MainPages/SANTECHTURE/Login.xhtml')
+WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
 
-WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), findTestData('data1').getValue(1, 1))
+WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), 'administrator')
 
-WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), findTestData('data1').getValue(2,1))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), '94L98adiAtmdH2Pcq36NMQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/label_'))
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/label__1'))
 
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/span_King Salman Abdulaziz Hospital -Riyadh'))
-
-WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/span_Sign In'))
+WebUI.doubleClick(findTestObject('Object Repository/Page_ROBINLogin/span_Sign In'))
 

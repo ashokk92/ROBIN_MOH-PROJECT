@@ -27,9 +27,9 @@ WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Patient'))
 
 WebUI.click(findTestObject('Object Repository/Page_Patient/span_Add Patient'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormmrn'), 'MN-80.9*89')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormmrn'), 'MRN-=/89*.')
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input_National ID_AccumedPatientCreateForme_a5ef9f'), '//**22..*/')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input_National ID_AccumedPatientCreateForme_a5ef9f'), '.....**//9')
 
 WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormpatientName'), 'pouytre')
 
