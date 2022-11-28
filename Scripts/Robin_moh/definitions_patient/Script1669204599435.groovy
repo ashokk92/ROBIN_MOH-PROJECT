@@ -27,15 +27,15 @@ WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Patient'))
 
 WebUI.click(findTestObject('Object Repository/Page_Patient/span_Add Patient'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormmrn'), 'MRN-=/89*.')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormmrn'), 'mrn-39800.')
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input_National ID_AccumedPatientCreateForme_a5ef9f'), '.....**//9')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input_National ID_AccumedPatientCreateForme_a5ef9f'), '789999999.')
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormpatientName'), 'pouytre')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormpatientName'), 'poiuy,')
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormMiddlename'), 'ram')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormMiddlename'), 'mmmk')
 
-WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormpatientSurname'), 'armasdf')
+WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormpatientSurname'), 'miu789')
 
 WebUI.setText(findTestObject('Object Repository/Page_Patient/input__AccumedPatientCreateFormdateOfBirth2_input'), '23/07/1998')
 

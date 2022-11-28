@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='actionsButtonsForm:j_idt1675']/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Receipt &amp; Invoice'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
