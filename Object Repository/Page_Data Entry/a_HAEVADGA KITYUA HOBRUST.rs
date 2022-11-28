@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HAEVADGA KITYUA HOBRUST</name>
+   <tag></tag>
+   <elementGuidId>add925e2-fa21-4648-b5e2-4ae1dd1f85da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>82faaaf5-fa0b-4581-837d-1e8da2a95008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:0:patientNameLink</value>
+      <webElementGuid>4c2b413f-920f-4bb5-80f3-555de00d6109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b16f9cb8-023d-442a-8192-9c23fd986105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>bab8e660-5759-4534-be14-79932e142af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:0:patientNameLink&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;accumedVitalSign EligiblityInfoGroupForm AccumedHaadActivityListForm AccumedHaadDiagnosisListForm phWLForm:phWLTbl:0:patientNameLink InvoiceForm actionsFormInvoice EligiblityInfoHistoryGroupForm actionsFormInvoice growl&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); if(!args.validationFailed) {PF('NewInvoiceWid').show() ;PF('dataTableActivity').filter();};}});return false;</value>
+      <webElementGuid>100798ec-bf9a-4d43-b225-26cc3ec53912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HAEVADGA KITYUA HOBRUST</value>
+      <webElementGuid>5e3a45f8-2322-46cd-82c8-adcb96a2b6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:0:patientNameLink&quot;)</value>
+      <webElementGuid>910736bf-d1d4-41b6-9549-22df8e168afa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      <webElementGuid>9e4c9d0a-64b1-4f62-94d6-8012198317cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr/td/a</value>
+      <webElementGuid>78af8b96-d0cb-4eae-8295-445dd9e12909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HAEVADGA KITYUA HOBRUST')]</value>
+      <webElementGuid>ea156f5a-d199-48c8-bef9-afe72a4c2d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>57222357-ae85-4c7a-9929-742abc436b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update By'])[1]/following::a[1]</value>
+      <webElementGuid>4c998691-9edb-4de5-8135-d28e60b3f6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mrn-000.8'])[1]/preceding::a[1]</value>
+      <webElementGuid>1e193088-8e10-4773-a246-54815dab187a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0001046'])[1]/preceding::a[1]</value>
+      <webElementGuid>6ec60db3-35af-4e0b-9449-6fd3859e4e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HAEVADGA KITYUA HOBRUST']/parent::*</value>
+      <webElementGuid>9bb25d68-00fe-47fa-a58a-5c9cebdbb471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[28]</value>
+      <webElementGuid>a4f8f2b1-0347-4bfe-91f0-677bc6a101ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>14479f1f-aa53-4862-aeac-10885759b532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:0:patientNameLink' and @href = '#' and (text() = 'HAEVADGA KITYUA HOBRUST' or . = 'HAEVADGA KITYUA HOBRUST')]</value>
+      <webElementGuid>9d5f37b3-8beb-46b8-af7d-1e8ed066dd9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

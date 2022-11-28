@@ -29,15 +29,15 @@ WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Create New Vi
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_New patient'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormmrn'), 'mrn-109..*8')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormmrn'), 'mrn-000.8')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_National ID_AccumedPatientCreateForme_a5ef9f'), '0000369999')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_National ID_AccumedPatientCreateForme_a5ef9f'), '666666999.')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormMiddlename'), 'PALASAD')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormMiddlename'), 'KITYUA')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientName'), 'PARINAYANM')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientName'), 'HAEVADGA')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientSurname'), 'HARDVARD')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input__AccumedPatientCreateFormpatientSurname'), 'HOBRUST')
 
 WebUI.click(findTestObject('Page_Data Entry/Element_label-gender'))
 
@@ -53,7 +53,7 @@ WebUI.click(findTestObject('Object Repository/Page_Data Entry/li_Married'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Mobile_AccumedPatientCreateFormmobile'), '9989965593')
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Email_AccumedPatientCreateFormemail'), 'ikuy6@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Email_AccumedPatientCreateFormemail'), 'iKKIU6@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Insert Patient'))
 
