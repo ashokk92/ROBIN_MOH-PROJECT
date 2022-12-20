@@ -27,13 +27,13 @@ WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Services'))
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_OP Receipts'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OP Receipts/input_Paid  Closed_phWLFormsearch'), 'mrn-..99203')
+WebUI.setText(findTestObject('Object Repository/Page_OP Receipts/input_Paid  Closed_phWLFormsearch'), 'MRN-0098/9')
 
 WebUI.click(findTestObject('Object Repository/Page_OP Receipts/span_Search'))
 
-WebUI.click(findTestObject('Page_OP Receipts/a_nadhuay praveenku piuyt'))
+WebUI.click(findTestObject('Page_OP Receipts/a_MAREDU KLIYAUAO KIRAN'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OP Receipts/input_PaymentAmount_paymentFormpayment0Amou_c31842'), '814.40')
+WebUI.setText(findTestObject('Object Repository/Page_OP Receipts/input_PaymentAmount_paymentFormpayment0Amou_c31842'), '0.00')
 
 WebUI.click(findTestObject('Object Repository/Page_OP Receipts/span_Generate Receipt  Invoice'))
 

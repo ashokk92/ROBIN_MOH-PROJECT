@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_</name>
+   <name>label_ (1)</name>
    <tag></tag>
-   <elementGuidId>c9cbc9ce-c066-41ee-b22d-837fb0dd91ab</elementGuidId>
+   <elementGuidId>b5bb02d3-b141-40ed-a8af-0f298cdcf19d</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='AccumedPatientCreateForm:genderId_label']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//label[@id='loginForm:facilityId_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>4148fe0a-339f-4fc5-825e-fc951f1c53fc</webElementGuid>
+      <webElementGuid>34b3373f-a19f-4330-a27b-352d2ed7e932</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:facilityId_label</value>
-      <webElementGuid>b63e543e-fd0a-4538-94f5-69abfa051b46</webElementGuid>
+      <value>AccumedPatientCreateForm:genderId_label</value>
+      <webElementGuid>ed9c7b07-56c2-495e-b567-06a102060be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>a74bd6fd-af8d-4f7a-840f-37202645ac68</webElementGuid>
+      <webElementGuid>3a96560f-48d4-45d8-8265-146b734233bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,70 +46,78 @@
       <name>text</name>
       <type>Main</type>
       <value>...</value>
-      <webElementGuid>05380531-d8d5-44ce-a1fa-ecdcb6e0f387</webElementGuid>
+      <webElementGuid>15ba5f16-1a33-42e0-a515-2873b19a1f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:facilityId_label&quot;)</value>
-      <webElementGuid>7bb43ff2-2a8a-4452-a483-203db885d3db</webElementGuid>
+      <value>id(&quot;AccumedPatientCreateForm:genderId_label&quot;)</value>
+      <webElementGuid>ccc2adba-a0db-4c2e-bb22-d31001976c5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//label[@id='loginForm:facilityId_label']</value>
-      <webElementGuid>b9282a9d-350d-4ca8-a1e3-4f3aa8767e72</webElementGuid>
+      <value>//label[@id='AccumedPatientCreateForm:genderId_label']</value>
+      <webElementGuid>6d027f7c-4070-40ac-b198-3e2e599c4d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginForm:facilityId']/label</value>
-      <webElementGuid>2882b008-20cb-4865-a9d4-95d790f52c0a</webElementGuid>
+      <value>//div[@id='AccumedPatientCreateForm:genderId']/label</value>
+      <webElementGuid>86609eeb-663f-40f4-9cde-8c776b7b67e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::label[2]</value>
-      <webElementGuid>3ec6bdc8-fae3-479f-9db5-6f359123821f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::label[1]</value>
+      <webElementGuid>4f0412bf-f701-48b4-bfe5-382980ad0c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::label[1]</value>
-      <webElementGuid>5e092fec-5a57-415e-9cd9-3262a480f334</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[3]/following::label[1]</value>
+      <webElementGuid>23d32047-fa4a-4fbb-bfb4-4cefb48e994e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[2]</value>
-      <webElementGuid>2d24e89f-8fc7-4aa8-b8e0-403f743facf5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport ID'])[1]/preceding::label[1]</value>
+      <webElementGuid>7fa1488e-d5d9-4a60-85ef-a4b1f611e146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB / Age :'])[1]/preceding::label[2]</value>
+      <webElementGuid>5a18b4ff-01ff-4c2a-b3ad-42286534ef24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/label</value>
-      <webElementGuid>fd9cdded-d6c3-429d-8427-53171ffce579</webElementGuid>
+      <value>//td/table/tbody/tr[3]/td[6]/div/label</value>
+      <webElementGuid>23c32be7-ab9a-4d39-bad0-e2aa434b3a84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'loginForm:facilityId_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>946c606f-2bb4-44e6-803a-9ae418b5cb31</webElementGuid>
+      <value>//label[@id = 'AccumedPatientCreateForm:genderId_label' and (text() = '...' or . = '...')]</value>
+      <webElementGuid>73d616e9-b9dd-42af-b11f-16151f30f084</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

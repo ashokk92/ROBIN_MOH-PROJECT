@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Sign In</name>
    <tag></tag>
-   <elementGuidId>0c70fb47-eaeb-4cf1-8116-46c1fa7396e4</elementGuidId>
+   <elementGuidId>72c12fc4-0660-4ed4-bd03-ba4d67d09356</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='loginForm:j_idt44']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='loginForm:j_idt29']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2630de6e-93e9-498a-b87f-5b7530812c02</webElementGuid>
+      <webElementGuid>27644543-9f05-40cf-9813-532812e219c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:j_idt29</value>
-      <webElementGuid>e591b88a-b3eb-4975-a343-1abe4abea524</webElementGuid>
+      <value>loginForm:j_idt44</value>
+      <webElementGuid>dfe3b583-3d11-4cd9-bbbb-c415eb546215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:j_idt29</value>
-      <webElementGuid>673cb47d-3173-433b-a4fa-854fc3498ae9</webElementGuid>
+      <value>loginForm:j_idt44</value>
+      <webElementGuid>132d57eb-6bf5-413f-a746-d7feaec09d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only login100-form-btn ui-state-focus ui-state-hover</value>
-      <webElementGuid>c4d640e8-3662-4fbf-b15e-4b94e7848383</webElementGuid>
+      <webElementGuid>68fc0bd4-d333-40ae-87c1-d0035c58d075</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>PrimeFaces.ab({s:&quot;loginForm:j_idt29&quot;,u:&quot;loginForm:msg&quot;,onst:function(cfg){startAjaxLoader('Logging In Progress...');;},onco:function(xhr,status,args){endAjaxLoader();;}});return false;</value>
-      <webElementGuid>53f9f363-cfce-49eb-a21a-b1f68bf91fef</webElementGuid>
+      <value>PrimeFaces.ab({s:&quot;loginForm:j_idt44&quot;,u:&quot;loginForm:msg&quot;,onst:function(cfg){startAjaxLoader('Logging In Progress...');;},onco:function(xhr,status,args){endAjaxLoader();;}});return false;</value>
+      <webElementGuid>f6e6fdb9-88c0-4c66-8545-6dec9860e142</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e6456930-eef4-413c-9e17-761d67cec047</webElementGuid>
+      <webElementGuid>39614e71-7bb5-48b1-9a66-4d1ee61bb077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d7a6630b-4c0d-462e-9947-ee6879b458b4</webElementGuid>
+      <webElementGuid>3a9dcf40-f836-40ac-baa5-fdc9b7e0a767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3e2cfd5c-7c86-4ba4-905c-df2e797c977a</webElementGuid>
+      <webElementGuid>c86b4b9f-419e-448a-8502-e0c6f1ad4df6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,23 +86,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>eba9bd46-0668-4def-bfca-2d341a753e5c</webElementGuid>
+      <webElementGuid>272bba86-6900-4e08-bcf3-c7b83227782c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:j_idt29&quot;)</value>
-      <webElementGuid>ba3788df-da80-446b-92e7-e61efb5e8e6a</webElementGuid>
+      <value>id(&quot;loginForm:j_idt44&quot;)</value>
+      <webElementGuid>ff969173-876d-4c61-a6e2-a7e3ba0f6070</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='loginForm:j_idt29']</value>
-      <webElementGuid>0ad12a6a-fe86-4260-b78f-080b35f5d06e</webElementGuid>
+      <value>//button[@id='loginForm:j_idt44']</value>
+      <webElementGuid>87a073ef-2a10-442f-bd7a-255aebf2b2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/div[2]/button</value>
-      <webElementGuid>bc5aac4f-8c2b-4a7b-a8a8-6e34e229c38f</webElementGuid>
+      <webElementGuid>7b3debf3-770f-4ef4-aab1-6407f059e6d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::button[1]</value>
-      <webElementGuid>53d3cef6-0b7c-479c-807b-9ca70a219140</webElementGuid>
+      <webElementGuid>c42a318e-3e96-4821-a8df-88e848e5dbef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,15 +126,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::button[1]</value>
-      <webElementGuid>4def2d67-a89f-43ae-afd8-224287ae2e37</webElementGuid>
+      <webElementGuid>c6f38a3c-49bf-4507-b785-83ae24f5d42e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
-      <webElementGuid>7916f93e-168a-4afe-800b-a27d8c108b27</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>72057f95-270f-4520-ae63-ffbcbe8b612a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,14 +142,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>297adbe7-3691-40cd-969e-329b71c684a1</webElementGuid>
+      <webElementGuid>b723b8b0-06e1-4ce7-a0cb-e3621de7636d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'loginForm:j_idt29' and @name = 'loginForm:j_idt29' and @type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>d1ed7738-6709-4f91-b487-a411d4a30798</webElementGuid>
+      <value>//button[@id = 'loginForm:j_idt44' and @name = 'loginForm:j_idt44' and @type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>72cba05c-c66e-434d-8257-ec51694218e7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

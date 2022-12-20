@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Loading_loginFormuserName</name>
+   <name>input_Clinician_InvoiceFormclinician_input</name>
    <tag></tag>
-   <elementGuidId>bde84dce-15c6-481d-b324-fe2410ba85c1</elementGuidId>
+   <elementGuidId>db7c9d3c-881c-4596-a1fb-e39e99624d2e</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='InvoiceForm:clinician_input']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='loginForm:userName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>91f6806e-8883-4802-bf4d-5be397c54041</webElementGuid>
+      <webElementGuid>5434cf25-8dde-40b1-b058-b11d77ee2b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginForm:userName</value>
-      <webElementGuid>42eb0c48-f236-44a5-bf30-b928d0c16bc7</webElementGuid>
+      <value>InvoiceForm:clinician_input</value>
+      <webElementGuid>8c78f21b-ae1e-4015-a884-9330c858dc6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>loginForm:userName</value>
-      <webElementGuid>e2a8276b-29c2-4334-8c8f-3a1456493313</webElementGuid>
+      <value>InvoiceForm:clinician_input</value>
+      <webElementGuid>4a0de372-26bb-4879-b6fa-0d3a4f4373b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,31 +46,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>79894cfa-ceda-43dc-99b4-045505ddb10a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>6a8d83f3-4ed2-4884-9227-7d2842cf48ab</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onchange</name>
-      <type>Main</type>
-      <value>PrimeFaces.ab({s:&quot;loginForm:userName&quot;,e:&quot;change&quot;,p:&quot;loginForm&quot;,u:&quot;loginForm:facilityId&quot;});</value>
-      <webElementGuid>bb369b15-9a1e-4f50-b958-b9c8e409e9d9</webElementGuid>
+      <webElementGuid>77a5bb5a-b062-4d2c-aaab-7dc0bca6be48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all input100 ui-state-hover ui-state-focus</value>
-      <webElementGuid>9906da0c-dc18-431d-9087-9b2780193ffe</webElementGuid>
+      <value>ui-autocomplete-input ui-inputfield ui-widget ui-state-default ui-corner-all ui-state-hover ui-state-focus</value>
+      <webElementGuid>13a9c1cd-1789-4d8b-988b-2a728156345a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7791b9fe-7bec-4493-9558-61cae13322b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>6995c3e3-b972-4ae1-9fa0-149f5a1ce450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>45afeac8-be34-488a-93fa-db4b9e5c1351</webElementGuid>
+      <webElementGuid>60e8eb50-7418-435f-a094-c2fbd3ef9ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>14aa8201-678f-461e-92de-289fe9e1b150</webElementGuid>
+      <webElementGuid>290fbd06-64ad-4888-8ff7-891adfba020a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,46 +94,54 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d3331ca2-6bda-42e9-86cd-6a3987875487</webElementGuid>
+      <webElementGuid>f0e43289-dc12-4fe4-afa0-6cdb3ad776b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>802e3c4a-fcf1-4a4e-bed4-c99e2f4f816c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:userName&quot;)</value>
-      <webElementGuid>acebc829-9e8a-44d4-87fb-b65f2635340f</webElementGuid>
+      <value>id(&quot;InvoiceForm:clinician_input&quot;)</value>
+      <webElementGuid>c8923968-7ed8-4ec8-b862-fd27154a37cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginForm:userName']</value>
-      <webElementGuid>5b40d17a-35ad-4635-9335-676ce527a145</webElementGuid>
+      <value>//input[@id='InvoiceForm:clinician_input']</value>
+      <webElementGuid>2eefe67b-72b0-4fd8-b2fa-8a2c55c0d661</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/input[2]</value>
-      <webElementGuid>5a166d76-bb29-474d-9d4e-ab9b833f1e21</webElementGuid>
+      <value>//span[@id='InvoiceForm:clinician']/input</value>
+      <webElementGuid>20f25d4f-1aab-4893-a7e5-cbae987dfa5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>c0318328-3e35-4a9d-b970-3098d9042a17</webElementGuid>
+      <value>//td[4]/table/tbody/tr/td/span/input</value>
+      <webElementGuid>01279479-3175-4c0a-9999-3dd2b030a291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'loginForm:userName' and @name = 'loginForm:userName' and @type = 'text' and @placeholder = 'User Name']</value>
-      <webElementGuid>ac36c65f-ef62-4243-9617-3c557541f276</webElementGuid>
+      <value>//input[@id = 'InvoiceForm:clinician_input' and @name = 'InvoiceForm:clinician_input' and @type = 'text']</value>
+      <webElementGuid>6f538345-c0e1-47d1-affd-f191af7d7146</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

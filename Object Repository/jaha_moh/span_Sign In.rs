@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_</name>
+   <name>span_Sign In</name>
    <tag></tag>
-   <elementGuidId>c9cbc9ce-c066-41ee-b22d-837fb0dd91ab</elementGuidId>
+   <elementGuidId>50e402fb-aa9f-499d-80e1-0ff1363594d6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>span.ui-button-text.ui-c</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='loginForm:facilityId_label']</value>
+         <value>//button[@id='loginForm:j_idt55']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>4148fe0a-339f-4fc5-825e-fc951f1c53fc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>loginForm:facilityId_label</value>
-      <webElementGuid>b63e543e-fd0a-4538-94f5-69abfa051b46</webElementGuid>
+      <value>span</value>
+      <webElementGuid>df113446-c132-4765-9759-082e795eeb8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
-      <webElementGuid>a74bd6fd-af8d-4f7a-840f-37202645ac68</webElementGuid>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>429cab53-53fc-40e6-8c08-10a618cf71f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>...</value>
-      <webElementGuid>05380531-d8d5-44ce-a1fa-ecdcb6e0f387</webElementGuid>
+      <value>Sign In</value>
+      <webElementGuid>48555b6b-feaa-4718-b380-16e3c71355cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm:facilityId_label&quot;)</value>
-      <webElementGuid>7bb43ff2-2a8a-4452-a483-203db885d3db</webElementGuid>
+      <value>id(&quot;loginForm:j_idt55&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>8c80741f-c108-4130-b069-0610ac3c6080</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//label[@id='loginForm:facilityId_label']</value>
-      <webElementGuid>b9282a9d-350d-4ca8-a1e3-4f3aa8767e72</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginForm:facilityId']/label</value>
-      <webElementGuid>2882b008-20cb-4865-a9d4-95d790f52c0a</webElementGuid>
+      <value>//button[@id='loginForm:j_idt55']/span</value>
+      <webElementGuid>45d843b4-8347-4129-b070-2dfa25f8b6bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::label[2]</value>
-      <webElementGuid>3ec6bdc8-fae3-479f-9db5-6f359123821f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Salman Abdulaziz Hospital -Riyadh'])[2]/following::span[2]</value>
+      <webElementGuid>9fb202f1-69cd-4c32-8025-9df36e3f773a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::label[1]</value>
-      <webElementGuid>5e092fec-5a57-415e-9cd9-3262a480f334</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[3]</value>
+      <webElementGuid>3dfd4eca-3d85-49ee-b14d-62399b7b0043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[2]</value>
-      <webElementGuid>2d24e89f-8fc7-4aa8-b8e0-403f743facf5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.santechture.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>44e19bab-dbec-40f8-a05e-9e0211d09c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>80738d98-23e1-4779-be4b-31d7924ccb7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/label</value>
-      <webElementGuid>fd9cdded-d6c3-429d-8427-53171ffce579</webElementGuid>
+      <value>//button/span</value>
+      <webElementGuid>22d3e571-2330-4e65-99d4-6036d5211846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[@id = 'loginForm:facilityId_label' and (text() = '...' or . = '...')]</value>
-      <webElementGuid>946c606f-2bb4-44e6-803a-9ae418b5cb31</webElementGuid>
+      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>014fc3c8-65fc-4a0e-95b5-aaab84d95496</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

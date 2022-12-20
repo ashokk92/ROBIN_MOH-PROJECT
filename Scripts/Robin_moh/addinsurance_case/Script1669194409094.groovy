@@ -25,11 +25,11 @@ WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Patient Journey M
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Data Entry'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Create New Visit Ammar_phWLFormsearch'), 'mrn-000.8')
+WebUI.setText(findTestObject('Object Repository/Page_Data Entry/input_Create New Visit Ammar_phWLFormsearch'), 'MRN-0098/9')
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Search'))
 
-WebUI.click(findTestObject('Page_Data Entry/a_HAEVADGA KITYUA HOBRUST'))
+WebUI.click(findTestObject('Page_Data Entry/a_MAREDU KLIYAUAO KIRAN'))
 
 WebUI.click(findTestObject('Object Repository/Page_Data Entry/span_Insurance Details'))
 

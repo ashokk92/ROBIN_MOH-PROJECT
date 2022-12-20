@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ADIPURSG VARAMW PRABHAG</name>
+   <tag></tag>
+   <elementGuidId>008c7c73-6879-4316-8ac1-76cba2594d1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a58d06bd-0549-4c77-8cc9-7f2a8e9a2114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phWLForm:phWLTbl:0:patientNameLink</value>
+      <webElementGuid>2f4562b5-9361-4f29-bdd0-741d86318cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5ef44f5a-c766-4cea-8222-6ef8a484e91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-commandlink ui-widget</value>
+      <webElementGuid>2a1aa9f1-3c78-4c00-ac02-7b8d5c702e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>this.disabled = true;this.className += ' ui-state-disabled ';;PrimeFaces.ab({s:&quot;phWLForm:phWLTbl:0:patientNameLink&quot;,p:&quot;phWLForm:phWLTbl&quot;,u:&quot;accumedVitalSign EligiblityInfoGroupForm AccumedHaadActivityListForm AccumedHaadDiagnosisListForm phWLForm:phWLTbl:0:patientNameLink InvoiceForm actionsFormInvoice EligiblityInfoHistoryGroupForm actionsFormInvoice growl&quot;,onst:function(cfg){startAjaxLoader('OPENING VISIT IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader(); if(!args.validationFailed) {PF('NewInvoiceWid').show() ;PF('dataTableActivity').filter();};}});return false;</value>
+      <webElementGuid>dc6001a8-4077-4d86-a21d-8c37d0f8f1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADIPURSG VARAMW PRABHAG</value>
+      <webElementGuid>aee9180d-7433-4381-9c6a-575b05b36b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;phWLForm:phWLTbl:0:patientNameLink&quot;)</value>
+      <webElementGuid>0eedf9bd-ac18-48f6-b6c2-cfc90beb9876</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='phWLForm:phWLTbl:0:patientNameLink']</value>
+      <webElementGuid>f9d34426-e500-465f-a615-cd546c5b19b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='phWLForm:phWLTbl_data']/tr/td/a</value>
+      <webElementGuid>c45d8542-db5b-4942-bb4a-a3b06f903044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ADIPURSG VARAMW PRABHAG')]</value>
+      <webElementGuid>c60e6101-a265-4fe6-923b-9059b65847d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::a[1]</value>
+      <webElementGuid>a51c891d-fce6-4358-839a-9f78ab5b8959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update By'])[1]/following::a[1]</value>
+      <webElementGuid>66f6343e-335c-4196-a86b-89109933087c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRN-02289'])[1]/preceding::a[1]</value>
+      <webElementGuid>a14eaa60-d73c-4e3b-abeb-10b9b6359e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APM-OP-0001067'])[1]/preceding::a[1]</value>
+      <webElementGuid>d23d8034-d865-42df-bb31-0cc5ac23c97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADIPURSG VARAMW PRABHAG']/parent::*</value>
+      <webElementGuid>7ad2af88-bf18-488f-94ae-554d35c53e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[28]</value>
+      <webElementGuid>e2acd459-e709-4806-8e82-8cbd8db5c266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>d5682e87-cc66-4d70-bb04-0f3b56434d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'phWLForm:phWLTbl:0:patientNameLink' and @href = '#' and (text() = 'ADIPURSG VARAMW PRABHAG' or . = 'ADIPURSG VARAMW PRABHAG')]</value>
+      <webElementGuid>c992638f-ad55-4cc5-9e4c-3ac4d611afdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
